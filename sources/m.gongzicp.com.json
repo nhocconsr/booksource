@@ -4,7 +4,7 @@
     "version": 102,
     "search": {
         "url": "https://m.gongzicp.com/novel/searchNovels?keyword=${key}&searchType=1&finishType=0&novelType=0&sortType=1&page=1",
-         "charset": "utf-8",
+        "charset": "utf-8",
         "list": "$.data.list[*]",
         "name": "$.novel_name",
         "author": "$.novel_author",
@@ -20,35 +20,34 @@
         "booklet": {
             "name": "$.name",
             "list": "$.list[*]"
-          },
+        },
         "name": "$.chapter_name",
         "chapter": "https://m.gongzicp.com/read-${$.chapter_nid}-${$.chapter_id}.html"
     },
     "chapter": {
-        "content":".novelText"
-    
- 
-    }, "auth": {
+        "content": ".novelText"
+
+    },
+    "auth": {
         "login": "https://m.gongzicp.com/login/signIn",
-        "header":"User-Agent:Mozilla/5.0 (Linux; Android 7.0; MHA-AL00 Build/HUAWEIMHA-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.134 Mobile Safari/537.36",
+        "header": "User-Agent:Mozilla/5.0 (Linux; Android 7.0; MHA-AL00 Build/HUAWEIMHA-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.134 Mobile Safari/537.36",
         "cookie": "m.gongzicp.com",
         "verify": "https://m.gongzicp.com/user/index",
         "logged": ".contentBox > div:nth-child(3) > a > div > span@equal->我的钱包"
     },
-    "rank": [
-        {
-            "title":"畅销榜",
+    "rank": [{
+            "title": "畅销榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=1&d=2&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -58,20 +57,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"上架榜",
+
+        }, {
+            "title": "上架榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=2&d=2&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -81,20 +80,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"风云榜",
+
+        }, {
+            "title": "风云榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=3&d=2&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -104,20 +103,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"热读榜",
+
+        }, {
+            "title": "热读榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=4&d=2&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -127,20 +126,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"完结榜",
+
+        }, {
+            "title": "完结榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=75&r=2&d=2&p=1&t=${key}&r=5&d=7&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -150,20 +149,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"人气榜",
+
+        }, {
+            "title": "人气榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=6&d=2&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -173,20 +172,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"新书榜",
+
+        }, {
+            "title": "新书榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=7&d=2&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -196,20 +195,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"新人榜",
+
+        }, {
+            "title": "新人榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=8&d=2&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -219,20 +218,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"萌新榜",
+
+        }, {
+            "title": "萌新榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=9&d=2&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -242,20 +241,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"打赏榜",
+
+        }, {
+            "title": "打赏榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=${key}&r=2&d=2&p=${page}&t=${key}&r=10&d=5&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -265,20 +264,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"互动榜",
+
+        }, {
+            "title": "互动榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=75&r=2&d=2&p=1&t=${key}&r=11&d=9&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -288,20 +287,20 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
-        },{
-            "title":"勤奋榜",
+
+        }, {
+            "title": "勤奋榜",
             "url": "https://m.gongzicp.com/home/ranking?&t=75&r=2&d=2&p=1&t=${key}&r=12&d=4&p=${page}@header->X-Requested-With: XMLHttpRequest",
             "categories": [
-                {"key": "75", "value": "全部"}, 
-                {"key": "3", "value": "古代"}, 
-                {"key": "1", "value": "现代"}, 
-                {"key": "4", "value": "幻想"},
-                {"key": "6", "value": "悬疑"}, 
-                {"key": "66", "value": "短佩"}, 
-                {"key": "9", "value": "架空"}, 
-                {"key": "73", "value": "无CP"},
-                {"key": "17", "value": "百合"}
+                { "key": "75", "value": "全部" },
+                { "key": "3", "value": "古代" },
+                { "key": "1", "value": "现代" },
+                { "key": "4", "value": "幻想" },
+                { "key": "6", "value": "悬疑" },
+                { "key": "66", "value": "短佩" },
+                { "key": "9", "value": "架空" },
+                { "key": "73", "value": "无CP" },
+                { "key": "17", "value": "百合" }
             ],
             "page": 1,
             "size": 10,
@@ -311,9 +310,9 @@
             "summary": "$.novel_desc",
             "cover": "$.novel_cover",
             "detail": "/novel/chapterList/id/${$.novel_id}@header->X-Requested-With: XMLHttpRequest"
- 
+
         }
-        
+
     ]
- 
+
 }

@@ -23,86 +23,83 @@
     },
     "chapter": {
         "content": "$.data"
-    }
-    ,
-      "rank": [
-        {
-            "title":"四大名著",
+    },
+    "rank": [{
+            "title": "四大名著",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=27&time_type=0&full_type=2&page=${page}&page_size=10",
-              "list":"$..list[*]",
-              "page":1
+            "list": "$..list[*]",
+            "page": 1
 
         },
         {
-            "title":"世情小说",
+            "title": "世情小说",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=25&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
         },
         {
-            "title":"神鬼志怪",
+            "title": "神鬼志怪",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=22&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
         }, {
-            "title":"侠义公案",
+            "title": "侠义公案",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=20&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
         }, {
-            "title":"历史演义",
+            "title": "历史演义",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=31&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
-        },{
-            "title":"学术杂书",
+        }, {
+            "title": "学术杂书",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=26&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
-        },{
-            "title":"杂剧戏曲",
+        }, {
+            "title": "杂剧戏曲",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=30&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
-        },{
-            "title":"三言二拍",
+        }, {
+            "title": "三言二拍",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=24&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
-        },{
-            "title":"二十四史",
+        }, {
+            "title": "二十四史",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=33&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
-        },{
-            "title":"蒙学大全",
+        }, {
+            "title": "蒙学大全",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=32&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
-        },{
-            "title":"鲁迅全集",
+        }, {
+            "title": "鲁迅全集",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=35&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
-        },{
-            "title":"老舍全集",
+        }, {
+            "title": "老舍全集",
             "url": "http://app.bailianyu.com:1819/appapiv1/classifylist?appkey=%2BYxWjxL1mJx1gdEILt68w%2BFSlHhJoFWNt1H2OIEtuJo%3D&cid=34&time_type=0&full_type=2&page=${page}&page_size=10",
-            "list":"$..list[*]",
-            "page":1
+            "list": "$..list[*]",
+            "page": 1
 
         }
-          
-      ]
 
+    ]
 
 }
