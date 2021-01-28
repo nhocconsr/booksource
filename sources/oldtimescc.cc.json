@@ -29,7 +29,7 @@
     },
     "chapter": {
         "content": ".readcontent",
-        "page": "#linkNext:matches(下一页)"
+        "page": "#linkNext:matches(下一页)",
         "purify": ["(您可以在百度里搜索.+最新章节！)|(本章未完，点击下一页继续阅读)|(AD[0-9])"]
     }
 }
