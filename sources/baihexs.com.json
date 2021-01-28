@@ -28,8 +28,6 @@
     },
     "chapter": {
         "content": "#content",
-        "purify": [
-            "\n感谢阅读，请您牢记：百合小说网 www.baihexs.com"
-        ]
+        "purify": ["(\n感谢阅读，请您牢记：百合小说网 www.baihexs.com)|(您可以在百度里搜索.+最新章节！)|(请牢记：百合小说网，网址手机版m.baihexs.com 电脑版www.baihexs.com，百合小说网免费最快更新无防盗无防盗.)"]
     }
 }
