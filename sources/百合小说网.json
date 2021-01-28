@@ -4,7 +4,7 @@
     "version": 100,
     "search": {
         "url": "https://m.baihexs.com/modules/article/waps.php@post->searchtype=articlename&submit=&searchkey=${key}",
-		"charset": "gbk",
+        "charset": "gbk",
         "list": ".cover>p.line",
         "name": "a:nth-child(2)",
         "author": ".intro_info",
@@ -27,6 +27,7 @@
         "chapter": "a"
     },
     "chapter": {
-        "content": "#content"
+        "content": "#content",
+        "purify": ["(\n感谢阅读，请您牢记：百合小说网 www.baihexs.com)|(您可以在百度里搜索.+最新章节！)|(请牢记：百合小说网，网址手机版.+电脑版.+，百合小说网免费最快更新无防盗无防盗.)"]
     }
 }
