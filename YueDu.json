@@ -501,7 +501,7 @@
         "customOrder": -38423,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -670,7 +670,7 @@
         "customOrder": -38402,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -717,7 +717,7 @@
         "customOrder": -38399,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -764,7 +764,7 @@
         "customOrder": -38397,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1604173363511,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -811,7 +811,7 @@
         "customOrder": -38395,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -858,7 +858,7 @@
         "customOrder": -38394,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1604172827398,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -905,7 +905,7 @@
         "customOrder": -38393,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -952,7 +952,7 @@
         "customOrder": -38391,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1604172631014,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -999,7 +999,7 @@
         "customOrder": -38390,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1046,7 +1046,7 @@
         "customOrder": -38389,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1093,7 +1093,7 @@
         "customOrder": -38387,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1140,7 +1140,7 @@
         "customOrder": -38386,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1187,7 +1187,7 @@
         "customOrder": -38385,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1234,7 +1234,7 @@
         "customOrder": -38384,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1281,7 +1281,7 @@
         "customOrder": -38383,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1611911745016,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1328,7 +1328,7 @@
         "customOrder": -38381,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1375,7 +1375,7 @@
         "customOrder": -38380,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1422,7 +1422,7 @@
         "customOrder": -38378,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1469,7 +1469,7 @@
         "customOrder": -38377,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1516,7 +1516,7 @@
         "customOrder": -38376,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1611911749671,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1708,7 +1708,7 @@
         "customOrder": -38351,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1755,7 +1755,7 @@
         "customOrder": -38350,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1604172938153,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1802,7 +1802,7 @@
         "customOrder": -38349,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1849,7 +1849,7 @@
         "customOrder": -38348,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -1896,7 +1896,7 @@
         "customOrder": -38347,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -2007,7 +2007,7 @@
         "customOrder": -38339,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -2525,7 +2525,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "最近更新::https://www.hhimm.com/top/newrating.aspx\n最多人看::https://www.hhimm.com/top/hotrating.aspx\n评分最高::https://www.hhimm.com/top/toprating.aspx\n评论最多::https://www.hhimm.com/top/hoorating.aspx\n全部::https://www.hhimm.com/comic/{{page}}.html\n萌系::https://www.hhimm.com/comic/class_1/{{page}}.html\n搞笑::https://www.hhimm.com/comic/class_2/{{page}}.html\n格斗::https://www.hhimm.com/comic/class_3/{{page}}.html\n科幻::https://www.hhimm.com/comic/class_4/{{page}}.html\n剧情::https://www.hhimm.com/comic/class_5/{{page}}.html\n侦探::https://www.hhimm.com/comic/class_6/{{page}}.html\n竞技::https://www.hhimm.com/comic/class_7/{{page}}.html\n魔法::https://www.hhimm.com/comic/class_8/{{page}}.html\n神鬼::https://www.hhimm.com/comic/class_9/{{page}}.html\n校园::https://www.hhimm.com/comic/class_10/{{page}}.html\n惊栗::https://www.hhimm.com/comic/class_11/{{page}}.html\n厨艺::https://www.hhimm.com/comic/class_12/{{page}}.html\n伪娘::https://www.hhimm.com/comic/class_13/{{page}}.html\n冒险::https://www.hhimm.com/comic/class_15/{{page}}.html\n小说::https://www.hhimm.com/comic/class_19/{{page}}.html\n港漫::https://www.hhimm.com/comic/class_20/{{page}}.html\n耽美::https://www.hhimm.com/comic/class_21/{{page}}.html\n经典::https://www.hhimm.com/comic/class_22/{{page}}.html\n欧美::https://www.hhimm.com/comic/class_23/{{page}}.html\n日文::https://www.hhimm.com/comic/class_24/{{page}}.html\n亲情::https://www.hhimm.com/comic/class_25/{{page}}.html\nA::https://www.hhimm.com/comic/pinyin_a/{{page}}.html\nB::https://www.hhimm.com/comic/pinyin_b/{{page}}.html\nC::https://www.hhimm.com/comic/pinyin_c/{{page}}.html\nD::https://www.hhimm.com/comic/pinyin_d/{{page}}.html\nE::https://www.hhimm.com/comic/pinyin_e/{{page}}.html\nF::https://www.hhimm.com/comic/pinyin_f/{{page}}.html\nG::https://www.hhimm.com/comic/pinyin_g/{{page}}.html\nH::https://www.hhimm.com/comic/pinyin_h/{{page}}.html\nI::https://www.hhimm.com/comic/pinyin_i/{{page}}.html\nJ::https://www.hhimm.com/comic/pinyin_j/{{page}}.html\nK::https://www.hhimm.com/comic/pinyin_k/{{page}}.html\nL::https://www.hhimm.com/comic/pinyin_l/{{page}}.html\nM::https://www.hhimm.com/comic/pinyin_m/{{page}}.html\nN::https://www.hhimm.com/comic/pinyin_n/{{page}}.html\nO::https://www.hhimm.com/comic/pinyin_o/{{page}}.html\nP::https://www.hhimm.com/comic/pinyin_p/{{page}}.html\nQ::https://www.hhimm.com/comic/pinyin_q/{{page}}.html\nR::https://www.hhimm.com/comic/pinyin_r/{{page}}.html\nS::https://www.hhimm.com/comic/pinyin_s/{{page}}.html\nT::https://www.hhimm.com/comic/pinyin_t/{{page}}.html\nU::https://www.hhimm.com/comic/pinyin_u/{{page}}.html\nV::https://www.hhimm.com/comic/pinyin_v/{{page}}.html\nW::https://www.hhimm.com/comic/pinyin_w/{{page}}.html\nX::https://www.hhimm.com/comic/pinyin_x/{{page}}.html\nY::https://www.hhimm.com/comic/pinyin_y/{{page}}.html\nZ::https://www.hhimm.com/comic/pinyin_z/{{page}}.html\n0-9::https://www.hhimm.com/comic/pinyin_0-9/{{page}}.html\n其他::https://www.hhimm.com/comic/pinyin_other/{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1605175912882,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -2603,7 +2603,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "少年热血::https://m.ccdm5.com/list/1\n侦探推理::https://m.ccdm5.com/list/2\n耽美喔::https://m.ccdm5.com/list/3\n恋爱生活::https://m.ccdm5.com/list/4\n纯情少女::https://m.ccdm5.com/list/6\n漫画::https://m.ccdm5.com/manhua-list",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1604242848609,
         "ruleBookInfo": {
             "intro": "class.intro@text",
@@ -2798,7 +2798,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "少年漫画::https://ssoonn.com/duzhequn/1/{{page}}/\n少女漫画::https://ssoonn.com/duzhequn/2/{{page}}/\n青年漫画::https://ssoonn.com/duzhequn/3/{{page}}/\n连载::https://ssoonn.com/lianwan/1/{{page}}/\n完结::https://ssoonn.com/lianwan/2/{{page}}/\n萌系::https://ssoonn.com/lists/1/{{page}}/\n搞笑::https://ssoonn.com/lists/2/{{page}}/\n格斗::https://ssoonn.com/lists/3/{{page}}/\n科幻::https://ssoonn.com/lists/4/{{page}}/\n剧情::https://ssoonn.com/lists/5/{{page}}/\n侦探::https://ssoonn.com/lists/6/{{page}}/\n竞技::https://ssoonn.com/lists/7/{{page}}/\n魔法::https://ssoonn.com/lists/8/{{page}}/\n神鬼::https://ssoonn.com/lists/9/{{page}}/\n校园::https://ssoonn.com/lists/10/{{page}}/\n惊栗::https://ssoonn.com/lists/11/{{page}}/\n厨艺::https://ssoonn.com/lists/12/{{page}}/\n伪娘::https://ssoonn.com/lists/13/{{page}}/\n图片::https://ssoonn.com/lists/14/{{page}}/\n冒险::https://ssoonn.com/lists/15/{{page}}/\n小说::https://ssoonn.com/lists/19/{{page}}/\n港漫::https://ssoonn.com/lists/20/{{page}}/\n耽美::https://ssoonn.com/lists/21/{{page}}/\n经典::https://ssoonn.com/lists/22/{{page}}/\n欧美::https://ssoonn.com/lists/23/{{page}}/\n日文::https://ssoonn.com/lists/24/{{page}}/\n亲情::https://ssoonn.com/lists/25/{{page}}/\nnull",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1604247437942,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -3219,7 +3219,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "剧情::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=1\n恋爱::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=5\n搞笑::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=3\n日常::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=4\n总裁::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=6\n奇幻::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=2\n少年::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=7\n动作::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=8\n校园::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=9\n都市::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=10\n悬疑::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=12\n灵异::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=11\n古风::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=15\n其他::https://apiwap.vcomic.com/wbcomic/comic/filter_result?end_status=0&comic_pay_status=0&_debug_=yes&_request_from=pc&order=comic_read_num&rows_num=16&page_num={{page}}&cate_id=16",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2357.134 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1603283569374,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -3581,7 +3581,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "最新更新::https://www.duanqiufeng.com/top/lastupdate/{{page}}.html\n最近入库::https://www.duanqiufeng.com/top/postdate/{{page}}.html\n总点击榜::https://www.duanqiufeng.com/top/allvisit/{{page}}.html\n总推荐榜::https://www.duanqiufeng.com/top/votenum/{{page}}.html\n总收藏榜::https://www.duanqiufeng.com/top/marknum/{{page}}.html\n总下载榜::https://www.duanqiufeng.com/top/downnum/{{page}}.html\n全本小说::https://www.duanqiufeng.com/quanben/{{page}}.html\n玄幻魔法::https://www.duanqiufeng.com/sort/1/{{page}}.html\n武侠修真::https://www.duanqiufeng.com/sort/2/{{page}}.html\n古代言情::https://www.duanqiufeng.com/sort/3/{{page}}.html\n历史军事::https://www.duanqiufeng.com/sort/4/{{page}}.html\n穿越架空::https://www.duanqiufeng.com/sort/5/{{page}}.html\n游戏竞技::https://www.duanqiufeng.com/sort/6/{{page}}.html\n科幻灵异::https://www.duanqiufeng.com/sort/7/{{page}}.html\n同人动漫::https://www.duanqiufeng.com/sort/8/{{page}}.html\n二次元の::https://www.duanqiufeng.com/sort/9/{{page}}.html\n另类小说::https://www.duanqiufeng.com/sort/10/{{page}}.html\n现代言情::https://www.duanqiufeng.com/sort/11/{{page}}.html\n青春校园::https://www.duanqiufeng.com/sort/12/{{page}}.html\n都市异能::https://www.duanqiufeng.com/sort/13/{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4402.0 Mobile Safari/537.36\"\n}",
         "lastUpdateTime": 1605096955057,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -3790,7 +3790,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "最近更新::https://www.qimizi.com/\n最新入库::https://www.qimizi.com/rank/postdate/{{page}}.html\n总点击榜::https://www.qimizi.com/rank/totalvisit/{{page}}.html\n总推荐榜::https://www.qimizi.com/rank/vote/{{page}}.html\n总收藏榜::https://www.qimizi.com/rank/mark/{{page}}.html\n总下载榜::https://www.qimizi.com/rank/down/{{page}}.html\n全本小说::https://www.qimizi.com/over/{{page}}.html\n玄幻小说::https://www.qimizi.com/category/1/{{page}}.html\n修真小说::https://www.qimizi.com/category/2/{{page}}.html\n都市小说::https://www.qimizi.com/category/3/{{page}}.html\n历史小说::https://www.qimizi.com/category/4/{{page}}.html\n网游小说::https://www.qimizi.com/category/5/{{page}}.html\n科幻小说::https://www.qimizi.com/category/6/{{page}}.html\n女频小说::https://www.qimizi.com/category/7/{{page}}.html\n其他小说::https://www.qimizi.com/category/8/{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1603990773247,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -3924,7 +3924,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "武侠小说::/soft/1/Soft_001_{{page}}.html\n玄幻小说::/soft/2/Soft_002_{{page}}.html\n都市言情::/soft/3/Soft_003_{{page}}.html\n恐怖灵异::/soft/4/Soft_004_{{page}}.html\n现代文学::/soft/5/Soft_005_{{page}}.html\n侦探推理::/soft/6/Soft_006_{{page}}.html\n科幻小说::/soft/7/Soft_007_{{page}}.html\n穿越架空::/soft/9/Soft_009_{{page}}.html\n古典名著::/soft/10/Soft_010_{{page}}.html\n名人自传::/soft/11/Soft_011_{{page}}.html\n历史军事::/soft/12/Soft_012_{{page}}.html\n制作工具::/soft/13/Soft_013_{{page}}.html\n网游小说::/soft/14/Soft_014_{{page}}.html\n推荐下载::/soft/best/index_{{page}}.html\n下载排行::/soft/hot/index_{{page}}.html\n最近更新::/soft/new/index_{{page}}.html\n全本下载::/soft/quanben/index_{{page}}.html",
-        "header": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4098.3 Safari/537.36",
+        "header": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36",
         "lastUpdateTime": 1608793429349,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -4226,7 +4226,7 @@
         "customOrder": -37723,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1604946281580,
         "loginUrl": "🧽",
         "ruleBookInfo": {
@@ -4427,7 +4427,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "最近更新::https://m.lianzais.com/top-lastupdate-{{page}}/\n最新入库::https://m.lianzais.com/top-postdate-{{page}}/\n总点击榜::https://m.lianzais.com/top-allvisit-{{page}}/\n总收藏榜::https://m.lianzais.com/top-goodnum-{{page}}/\n总推荐榜::https://m.lianzais.com/top-allvote-{{page}}/\n总字数榜::https://m.lianzais.com/top-size-{{page}}/\n全本小说::https://m.lianzais.com/full-{{page}}/\n玄幻小说::https://m.lianzais.com/sort-1-{{page}}/\n仙侠小说::https://m.lianzais.com/sort-2-{{page}}/\n都市小说::https://m.lianzais.com/sort-3-{{page}}/\n历史小说::https://m.lianzais.com/sort-4-{{page}}/\n游戏小说::https://m.lianzais.com/sort-5-{{page}}/\n科幻小说::https://m.lianzais.com/sort-6-{{page}}/\n恐怖小说::https://m.lianzais.com/sort-7-{{page}}/\n女生小说::https://m.lianzais.com/sort-8-{{page}}/\n其他小说::https://m.lianzais.com/sort-9-{{page}}/",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4402.0 Mobile Safari/537.36\"\n}",
         "lastUpdateTime": 1602814730028,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -4800,7 +4800,7 @@
         "customOrder": -37357,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1608793862641,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -4899,7 +4899,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "玄幻奇幻::https://www.d586.com/xuanhuan/\n武侠仙侠::https://www.d586.com/wuxia/\n都市生活::https://www.d586.com/dushi/\n历史军事::https://www.d586.com/lishi/\n游戏竞技::https://www.d586.com/youxi/\n科幻未来::https://www.d586.com/kehuan/\n恐怖悬疑::https://www.d586.com/xuanyi/\n二次元::https://www.d586.com/erciyuan/\n经典网文::https://www.d586.com/jingdian/\n古代言情::https://www.d586.com/guyan/\n现代言情::https://www.d586.com/xianyan/\n幻想奇缘::https://www.d586.com/huanqing/\n青春校园::https://www.d586.com/qingchun/\n网络情缘::https://www.d586.com/wangluo/\n科幻空间::https://www.d586.com/mmkehuan/\n鬼怪灵异::https://www.d586.com/lingyi/\nN次元::https://www.d586.com/Nciyuan/\n言情美文::https://www.d586.com/yanqing/\n",
-        "header": "{\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36\"}",
+        "header": "{\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -4949,7 +4949,7 @@
             "nextTocUrl": "",
             "updateTime": ""
         },
-        "searchUrl": "https://www.d586.com/search.html,{\n\"charset\": \"gbk\",\n     \"method\": \"POST\",\n     \"body\": \"searchtype=all&searchkey={{key}}\",\n     \"headers\": {\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36\"},\n     \"webView\": true\n }",
+        "searchUrl": "https://www.d586.com/search.html,{\n\"charset\": \"gbk\",\n     \"method\": \"POST\",\n     \"body\": \"searchtype=all&searchkey={{key}}\",\n     \"headers\": {\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"},\n     \"webView\": true\n }",
         "weight": 0
     },
     {
@@ -5000,7 +5000,7 @@
         "customOrder": -37152,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "ruleBookInfo": {
             "intro": "id.intro@tag.p.0@text"
@@ -5736,7 +5736,7 @@
         "customOrder": -36848,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36\"\n}",
+        "header": "{\n \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1601983114510,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -5775,7 +5775,7 @@
         "customOrder": -36827,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1604169766632,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -6051,7 +6051,7 @@
         "customOrder": -36724,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\"User-Agent\": \"Mozilla/5.0 (Linux; Android 8.1.0; JKM-AL00b Build/HUAWEIJKM-AL00b; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044807 Mobile Safari/537.36\"}",
+        "header": "{\"User-Agent\": \"Mozilla/5.0 (Linux; Android 8.1.0; JKM-AL00b Build/HUAWEIJKM-AL00b; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4402.0 Mobile Safari/537.36\"}",
         "lastUpdateTime": 1605072958612,
         "ruleBookInfo": {
             "coverUrl": "@js:\npic=java.get('pic');\njson=java.ajax('https://www.gequdaquan.net/gqss/api.php,\\{\"method\":\"POST\",\"body\":\"types=pic&source=xiami&id='+pic+'\"\\}');\nJSON.parse(json).url",
@@ -6127,7 +6127,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "歌单::/j/v2/songlist/explore?type=hot&genre=0&limit=20&sample_cnt=5",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1602989422953,
         "ruleBookInfo": {
             "coverUrl": "cover"
@@ -6484,7 +6484,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "玄幻魔法::/sk/allvisit_1_0_0_0_0_0_{{page}}.html\n武侠修真::/sk/allvisit_2_0_0_0_0_0_{{page}}.html\n都市言情::/sk/allvisit_3_0_0_0_0_0_{{page}}.html\n历史军事::/sk/allvisit_4_0_0_0_0_0_{{page}}.html\n穿越架空::/sk/allvisit_5_0_0_0_0_0_{{page}}.html\n游戏竞技::/sk/allvisit_6_0_0_0_0_0_{{page}}.html\n科幻灵异::/sk/allvisit_7_0_0_0_0_0_{{page}}.html\n同人动漫::/sk/allvisit_8_0_0_0_0_0_{{page}}.html\n社会文学::/sk/allvisit_9_0_0_0_0_0_{{page}}.html\n综合其他 ::/sk/allvisit_10_0_0_0_0_0_{{page}}.html\n点击::/sk/allvisit_0_0_0_0_0_0_{{page}}.html\n推荐::/sk/allvote_0_0_0_0_0_0_{{page}}.html\n新书::/sk/newhot_0_0_0_0_0_0_{{page}}.html\n字数::/sk/size_0_0_0_0_0_0_{{page}}.html\n收藏::/sk/goodnum_0_0_0_0_0_0_{{page}}.html\n更新::/sk/lastupdate_0_0_0_0_0_0_{{page}}.html\n入库::/sk/postdate_0_0_0_0_0_0_{{page}}.html\n编推::/sk/toptime_0_0_0_0_0_0_{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3730.400 QQBrowser/10.5.3805.400\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 QQBrowser/10.5.3805.400\"\n}",
         "lastUpdateTime": 1605026098721,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -6539,7 +6539,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "玄幻魔法::/fenlei1/fenlei1-{{page}}.html\n武侠仙侠::/fenlei2/fenlei2-{{page}}.html\n都市言情::/fenlei3/fenlei3-{{page}}.html\n历史军事::/fenlei4/fenlei4-{{page}}.html\n科幻末世::/fenlei5/fenlei5-{{page}}.html\n网游动漫::/fenlei6/fenlei6-{{page}}.html",
-        "header": "{\"User-Agent\":\" Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4292.2 Safari/537.36\"}",
+        "header": "{\"User-Agent\":\" Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"}",
         "lastUpdateTime": 1603903445962,
         "ruleBookInfo": {
             "author": "class.s1.0@text",
@@ -6836,7 +6836,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "玄幻::/list/1-{{page}}.html\n仙侠::/list/2-{{page}}.html\n言情::/list/3-{{page}}.html\n历史::/list/4-{{page}}.html\n网游::/list/5-{{page}}.html\n科幻::/list/6-{{page}}.html\n恐怖::/list/7-{{page}}.html\n其他::/list/8-{{page}}.html",
-        "header": "{\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52\"}",
+        "header": "{\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Edg/90.0.781.0\"}",
         "lastUpdateTime": 1602743323995,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -7315,7 +7315,7 @@
         "customOrder": -20695,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -7362,7 +7362,7 @@
         "customOrder": -20692,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -7617,7 +7617,7 @@
         "customOrder": -16472,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "🧽",
         "ruleBookInfo": {
@@ -7968,7 +7968,7 @@
         "customOrder": -4567,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1608287647033,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -8313,7 +8313,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "玄幻::/xuanhuan/{{page}}.html\n武侠::/wuxia/{{page}}.html\n都市::/dushi/{{page}}.html\n历史::/lishi/{{page}}.html\n游戏::/youxi/{{page}}.html\n科幻::/kehuan/{{page}}.html\n恐怖::/xuanyi/{{page}}.html\n二次::/erciyuan/{{page}}.html\n经典::/jingdian/{{page}}.html\n古代::/guyan/{{page}}.html\n现代::/xianyan/{{page}}.html\n幻想::/huanqing/{{page}}.html\n青春::/qingchun/{{page}}.html\n网络::/wangluo/{{page}}.html\n科幻::/mmkehuan/{{page}}.html\n鬼怪::/lingyi/{{page}}.html\nＮ次::/Nciyuan/{{page}}.html\n言情::/yanqing/{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1606758324381,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -8713,7 +8713,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "全部::https://m.imitui.com/list/<,?page={{page}}>\n排行::https://m.imitui.com/rank/<,<,?page={{page}}>>\n完结::https://m.imitui.com/list/wanjie/<,?page={{page}}>\n连载::https://m.imitui.com/list/lianzai/<,?page={{page}}>\n热血::https://m.imitui.com/list/rexue/<,?page={{page}}>\n玄幻::https://m.imitui.com/list/xuanhuan/<,?page={{page}}>\n修真::https://m.imitui.com/list/xiuzhen/<,?page={{page}}>\n古风::https://m.imitui.com/list/gufeng/<,?page={{page}}>\n恋爱::https://m.imitui.com/list/lianai/<,?page={{page}}>\n穿越::https://m.imitui.com/list/chuanyue/<,?page={{page}}>\n都市::https://m.imitui.com/list/dushi/<,?page={{page}}>\n霸总::https://m.imitui.com/list/bazong/<,?page={{page}}>\n悬疑::https://m.imitui.com/list/xuanyi/<,?page={{page}}>\n搞笑::https://m.imitui.com/list/gaoxiao/<,?page={{page}}>\n奇幻::https://m.imitui.com/list/qihuan/<,?page={{page}}>\n总裁::https://m.imitui.com/list/zongcai/<,?page={{page}}>\n日常::https://m.imitui.com/list/richang/<,?page={{page}}>\n冒险::https://m.imitui.com/list/maoxian/<,?page={{page}}>\n科幻::https://m.imitui.com/list/kehuan/<,?page={{page}}>\n纯爱::https://m.imitui.com/list/chunai/<,?page={{page}}>\n魔幻::https://m.imitui.com/list/mohuan/<,?page={{page}}>\n战争::https://m.imitui.com/list/zhanzheng/<,?page={{page}}>\n蔷薇::https://m.imitui.com/list/qiangwei/<,?page={{page}}>\n武侠::https://m.imitui.com/list/wuxia/<,?page={{page}}>\n生活::https://m.imitui.com/list/shenghuo/<,?page={{page}}>\n动作::https://m.imitui.com/list/dongzuo/<,?page={{page}}>\n后宫::https://m.imitui.com/list/hougong/<,?page={{page}}>\n游戏::https://m.imitui.com/list/youxi/<,?page={{page}}>\n恐怖::https://m.imitui.com/list/kongbu/<,?page={{page}}>\n漫改::https://m.imitui.com/list/mangai/<,?page={{page}}>\n真人::https://m.imitui.com/list/zhenren/<,?page={{page}}>\n校园::https://m.imitui.com/list/xiaoyuan/<,?page={{page}}>\n剧情::https://m.imitui.com/list/juqing/<,?page={{page}}>\n儿童::https://m.imitui.com/list/ertong/<,?page={{page}}>\n少年::https://m.imitui.com/list/shaonian/<,?page={{page}}>\n少女::https://m.imitui.com/list/shaonv/<,?page={{page}}>\n青年::https://m.imitui.com/list/qingnian/<,?page={{page}}>\n日本::https://m.imitui.com/list/riben/<,?page={{page}}>\n大陆::https://m.imitui.com/list/dalu/<,?page={{page}}>\n香港::https://m.imitui.com/list/hongkong/<,?page={{page}}>\n台湾::https://m.imitui.com/list/taiwan/<,?page={{page}}>\n欧美::https://m.imitui.com/list/oumei/<,?page={{page}}>\n韩国::https://m.imitui.com/list/hanguo/<,?page={{page}}>\n其他::https://m.imitui.com/list/qita/<,?page={{page}}>",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 8.1.0; JKM-AL00b Build/HUAWEIJKM-AL00b; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044807 Mobile Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 8.1.0; JKM-AL00b Build/HUAWEIJKM-AL00b; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4402.0 Mobile Safari/537.36\"\n}",
         "lastUpdateTime": 1606583468809,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -8903,7 +8903,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "全部::/sort/<,{{page}}.html>\n连载::/sort/s0/<,{{page}}.html>\n完结::/sort/s1/<,{{page}}.html>\n热血::/sort/t1/<,{{page}}.html>\n机战::/sort/t2/<,{{page}}.html>\n运动::/sort/t3/<,{{page}}.html>\n推理::/sort/t4/<,{{page}}.html>\n冒险::/sort/t5/<,{{page}}.html>\n搞笑::/sort/t8/<,{{page}}.html>\n战争::/sort/t9/<,{{page}}.html>\n神魔::/sort/t10/<,{{page}}.html>\n忍者::/sort/t11/<,{{page}}.html>\n竞技::/sort/t12/<,{{page}}.html>\n悬疑::/sort/t13/<,{{page}}.html>\n社会::/sort/t14/<,{{page}}.html>\n恋爱::/sort/t15/<,{{page}}.html>\n宠物::/sort/t16/<,{{page}}.html>\n吸血::/sort/t17/<,{{page}}.html>\n萝莉::/sort/t18/<,{{page}}.html>\n后宫::/sort/t19/<,{{page}}.html>\n御姐::/sort/t20/<,{{page}}.html>\n霸总::/sort/t21/<,{{page}}.html>\n玄幻::/sort/t22/<,{{page}}.html>\n古风::/sort/t23/<,{{page}}.html>\n历史::/sort/t24/<,{{page}}.html>\n漫改::/sort/t25/<,{{page}}.html>\n游戏::/sort/t26/<,{{page}}.html>\n穿越::/sort/t27/<,{{page}}.html>\n恐怖::/sort/t28/<,{{page}}.html>\n真人::/sort/t29/<,{{page}}.html>\n科幻::/sort/t30/<,{{page}}.html>\n都市::/sort/t31/<,{{page}}.html>\n武侠::/sort/t32/<,{{page}}.html>\n修真::/sort/t33/<,{{page}}.html>\n生活::/sort/t34/<,{{page}}.html>\n动作::/sort/t35/<,{{page}}.html>",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -10918,7 +10918,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "玄幻::/lc/1_{{page}}.html\n修真::/lc/2_{{page}}.html\n都市::/lc/3_{{page}}.html\n穿越::/lc/4_{{page}}.html\n网游::/lc/5_{{page}}.html\n科幻::/lc/6_{{page}}.html\n女生::/lc/7_{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Mobile Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Mobile Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -10959,7 +10959,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "最新::/postdate/{{page}}.html\n最近::/lastupdate/{{page}}.html\n玄幻::/fenlei1_{{page}}.html\n奇幻::/fenlei2_{{page}}.html\n武侠::/fenlei3_{{page}}.html\n都市::/fenlei4_{{page}}.html\n历史::/fenlei5_{{page}}.html\n军事::/fenlei6_{{page}}.html\n悬疑::/fenlei7_{{page}}.html\n游戏::/fenlei8_{{page}}.html\n科幻::/fenlei9_{{page}}.html\n体育::/fenlei10_{{page}}.html\n官场::/fenlei11_{{page}}.html\n古言::/fenlei12_{{page}}.html\n现言::/fenlei13_{{page}}.html\n幻言::/fenlei14_{{page}}.html\n仙侠::/fenlei15_{{page}}.html\n青春::/fenlei16_{{page}}.html\n穿越::/fenlei17_{{page}}.html\n女生::/fenlei18_{{page}}.html\nN次::/fenlei19_{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -12361,7 +12361,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "【男生频道】::/store/98-a-0-5-a-20-p-{{page}}-98\n东方玄幻::/store/99-a-0-5-a-20-p-{{page}}-98\n现代都市::/store/103-a-0-5-a-20-p-{{page}}-98\n脑洞创意::/store/135-a-0-5-a-20-p-{{page}}-98\n历史架空::/store/108-a-0-5-a-20-p-{{page}}-98\n军事战争::/store/113-a-0-5-a-20-p-{{page}}-98\n游戏竞技::/store/112-a-0-5-a-20-p-{{page}}-98\n武侠仙侠::/store/109-a-0-5-a-20-p-{{page}}-98\n科幻末世::/store/111-a-0-5-a-20-p-{{page}}-98\n灵异悬疑::/store/128-a-0-5-a-20-p-{{page}}-98\n西方奇幻::/store/107-a-0-5-a-20-p-{{page}}-98\n短篇小说::/store/281-a-0-5-a-20-p-{{page}}-98\n【女生频道】::/store/122-a-0-5-a-20-p-{{page}}-122\n古代言情::/store/129-a-0-5-a-20-p-{{page}}-122\n幻想言情::/store/133-a-0-5-a-20-p-{{page}}-122\n现代言情::/store/104-a-0-5-a-20-p-{{page}}-122\n浪漫青春::/store/105-a-0-5-a-20-p-{{page}}-122\n悬疑小说::/store/288-a-0-5-a-20-p-{{page}}-122\n短篇小说::/store/291-a-0-5-a-20-p-{{page}}-122\n【出版书籍】::/store/79-a-0-5-a-20-p-{{page}}-79\n现代都市::/store/81-a-0-5-a-20-p-{{page}}-79\n青春文学::/store/83-a-0-5-a-20-p-{{page}}-79\n悬疑灵异::/store/85-a-0-5-a-20-p-{{page}}-79\n励志成功::/store/88-a-0-5-a-20-p-{{page}}-79\n官场沉浮::/store/115-a-0-5-a-20-p-{{page}}-79\n职场商战::/store/92-a-0-5-a-20-p-{{page}}-79\n铁血军事::/store/86-a-0-5-a-20-p-{{page}}-79\n历史风云::/store/84-a-0-5-a-20-p-{{page}}-79\n影视娱乐::/store/102-a-0-5-a-20-p-{{page}}-79\n经管理财::/store/32-a-0-5-a-20-p-{{page}}-79\n教育教辅::/store/121-a-0-5-a-20-p-{{page}}-79\n纪实传记::/store/82-a-0-5-a-20-p-{{page}}-79\n奇幻科幻::/store/4-a-0-5-a-20-p-{{page}}-79\n生活休闲::/store/87-a-0-5-a-20-p-{{page}}-79\n武侠仙侠::/store/10-a-0-5-a-20-p-{{page}}-79\n童话寓言::/store/89-a-0-5-a-20-p-{{page}}-79\n社科科普::/store/3-a-0-5-a-20-p-{{page}}-79\n外国名著::/store/90-a-0-5-a-20-p-{{page}}-79\n古典名著::/store/91-a-0-5-a-20-p-{{page}}-79\n当代文学::/store/93-a-0-5-a-20-p-{{page}}-79\n两性伦理::/store/138-a-0-5-a-20-p-{{page}}-79\n言情小说::/store/139-a-0-5-a-20-p-{{page}}-79\n【次元世界】::/store/270-a-0-5-a-20-p-{{page}}-270\n异能幻想::/store/271-a-0-5-a-20-p-{{page}}-270\n校园青春::/store/272-a-0-5-a-20-p-{{page}}-270\n动漫同人::/store/273-a-0-5-a-20-p-{{page}}-270\n日常变身::/store/274-a-0-5-a-20-p-{{page}}-270\n剑与魔法::/store/275-a-0-5-a-20-p-{{page}}-270",
-        "header": "{\n\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36\"\n}",
+        "header": "{\n\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1606661891317,
         "loginUrl": "https://www.tadu.com/v5/toLogin",
         "ruleBookInfo": {
@@ -13328,7 +13328,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "总排行榜::/topallvisit/{{page}}.html\n总推荐榜::/topallvote/{{page}}.html\n总收藏榜::/topgoodnum/{{page}}.html\n月排行榜::/topmonthvisit/{{page}}.html\n周排行榜::/topweekvisit/{{page}}.html\n最近更新::/toplastupdate/{{page}}.html\n字数排行::/topsize/{{page}}.html\n玄幻奇幻::/sort1/{{page}}.html\n都市言情::/sort2/{{page}}.html\n武侠仙侠::/sort3/{{page}}.html\n科幻穿越::/sort4/{{page}}.html\n网游竞技::/sort5/{{page}}.html\n恐怖悬疑::/sort6/{{page}}.html\n耽美同人::/sort7/{{page}}.html\n历史军事::/sort8/{{page}}.html\n文学名著::/sort9/{{page}}.html\n激情小说::/sort10/{{page}}.html\n古代宫廷::/sort12/{{page}}.html\n其它类型::/sort11/{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1606665118179,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -13525,7 +13525,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "玄幻::/sort/1-{{page}}.html\n武侠::/sort/2-{{page}}.html\n言情::/sort/3-{{page}}.html\n穿越::/sort/4-{{page}}.html\n都市::/sort/5-{{page}}.html\n科幻::/sort/6-{{page}}.html\n网游::/sort/7-{{page}}.html\n恐怖::/sort/8-{{page}}.html\n耽美::/sort/9-{{page}}.html\n校园::/sort/10-{{page}}.html\n高辣::/sort/11-{{page}}.html\n腹黑::/sort/12-{{page}}.html\n种田::/sort/13-{{page}}.html\n高干::/sort/14-{{page}}.html\n百合::/sort/15-{{page}}.html\n其他::/sort/16-{{page}}.html",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "ruleBookInfo": {
             "author": "[property=\"og:novel:author\"]@content",
@@ -13752,7 +13752,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "玄幻::/book/xuanhuan/default-0-0-0-0-0-0-{{page}}.html\n仙侠::/book/xianxia/default-0-0-0-0-0-0-{{page}}.html\n都市::/book/dushi/default-0-0-0-0-0-0-{{page}}.html\n军史::/book/lishi/default-0-0-0-0-0-0-{{page}}.html\n网游::/book/wangyou/default-0-0-0-0-0-0-{{page}}.html\n科幻::/book/kehuan/default-0-0-0-0-0-0-{{page}}.html\n灵异::/book/lingyi/default-0-0-0-0-0-0-{{page}}.html\n言情::/book/yanqing/default-0-0-0-0-0-0-{{page}}.html\n其他::/book/qita/default-0-0-0-0-0-0-{{page}}.html\n全本::/book/quanbu/default-0-0-0-0-2-0-{{page}}.html\nnull",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -13960,7 +13960,7 @@
         "customOrder": -1,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14048,7 +14048,7 @@
         "customOrder": 0,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14095,7 +14095,7 @@
         "customOrder": 0,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14142,7 +14142,7 @@
         "customOrder": 0,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14189,7 +14189,7 @@
         "customOrder": 0,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14236,7 +14236,7 @@
         "customOrder": 0,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14283,7 +14283,7 @@
         "customOrder": 0,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14330,7 +14330,7 @@
         "customOrder": 0,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14377,7 +14377,7 @@
         "customOrder": 0,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14465,7 +14465,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "<js>\nvar params='';\nvar mood=['烦躁',\r'悲伤',\r'孤独',\r'已弃疗',\r'减压',\r'无奈',\r'快乐',\r'感动',\r'迷茫'];\nvar place=['睡前',\r'旅行',\r'散步',\r'坐车',\r'独处',\r'失恋',\r'失眠',\r'无聊',\r'随便'];\nvar url='::/tagshow?p={{page}}&page={{page}}&n='\nfor(i in mood)<\n     params=params+'心情·'+mood[i]+url+mood[i]+'\n';\n>\nfor(j in place)<\n     params=params+'场景·'+place[j]+url+place[j]+'\n';\n>\nparams\n</js>",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -14739,7 +14739,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "都市::/dushi/list_{{page}}.html\n玄幻::/xuanhuan/list_{{page}}.html\n科幻::/kehuan/list_{{page}}.html\n仙侠::/xianxia/list_{{page}}.html\n武侠::/wuxia/list_{{page}}.html\n言情::/yanqing/list_{{page}}.html\n穿越::/chuanyue/list_{{page}}.html\n游戏::/youxi/list_{{page}}.html\n奇幻::/qihuan/list_{{page}}.html\n悬疑::/xuanyi/list_{{page}}.html\n青春::/qingchun/list_{{page}}.html\n校园::/xiaoyuan/list_{{page}}.html\n军事::/junshi/list_{{page}}.html\n历史::/lishi/list_{{page}}.html\n同人::/tongren/list_{{page}}.html\n耽美::/danmei/list_{{page}}.html\n官场::/guanchang/list_{{page}}.html\n商场::/shangchang/list_{{page}}.html\n其他::/qita/list_{{page}}.html\n点击::/top/month.php",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3587.400\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 QQBrowser/10.4.3587.400\"\n}",
         "lastUpdateTime": 1611909191475,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -15974,7 +15974,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1601041391127,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -16059,7 +16059,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1601042510275,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -16306,7 +16306,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "",
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 1601042429063,
         "loginUrl": "https://www.ztv.la/login.htm",
         "ruleBookInfo": {
@@ -16984,7 +16984,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "　　　　　　　  男频🚹总榜  　　　　　　　::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=全部&rank=rank_update\n玄幻热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=玄幻&rank=rank_hot\n玄幻好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=玄幻&rank=rank_good\n玄幻完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=玄幻&rank=rank_finish\n玄幻窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=玄幻&rank=rank_increase\n玄幻新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=玄幻&rank=rank_new\n玄幻勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=玄幻&rank=rank_update\n都市热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=都市&rank=rank_hot\n都市好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=都市&rank=rank_good\n都市完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=都市&rank=rank_finish\n都市窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=都市&rank=rank_increase\n都市新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=都市&rank=rank_new\n都市勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=都市&rank=rank_update\n科幻热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=科幻&rank=rank_hot\n科幻好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=科幻&rank=rank_good\n科幻完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=科幻&rank=rank_finish\n科幻窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=科幻&rank=rank_increase\n科幻新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=科幻&rank=rank_new\n科幻勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=科幻&rank=rank_update\n历史热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=历史&rank=rank_hot\n历史好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=历史&rank=rank_good\n历史完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=历史&rank=rank_finish\n历史窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=历史&rank=rank_increase\n历史新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=历史&rank=rank_new\n历史勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=历史&rank=rank_update\n仙侠热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=仙侠&rank=rank_hot\n仙侠好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=仙侠&rank=rank_good\n仙侠完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=仙侠&rank=rank_finish\n仙侠窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=仙侠&rank=rank_increase\n仙侠新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=仙侠&rank=rank_new\n仙侠勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=仙侠&rank=rank_update\n游戏热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=游戏&rank=rank_hot\n游戏好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=游戏&rank=rank_good\n游戏完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=游戏&rank=rank_finish\n游戏窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=游戏&rank=rank_increase\n游戏新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=游戏&rank=rank_new\n游戏勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=游戏&rank=rank_update\n武侠热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=武侠&rank=rank_hot\n武侠好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=武侠&rank=rank_good\n武侠完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=武侠&rank=rank_finish\n武侠窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=武侠&rank=rank_increase\n武侠新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=武侠&rank=rank_new\n武侠勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=武侠&rank=rank_update\n灵异热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=灵异悬疑&rank=rank_hot\n灵异好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=灵异悬疑&rank=rank_good\n灵异完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=灵异悬疑&rank=rank_finish\n灵异窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=灵异悬疑&rank=rank_increase\n灵异新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=灵异悬疑&rank=rank_new\n灵异勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=灵异悬疑&rank=rank_update\n奇幻热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=奇幻&rank=rank_hot\n奇幻好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=奇幻&rank=rank_good\n奇幻完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=奇幻&rank=rank_finish\n奇幻窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=奇幻&rank=rank_increase\n奇幻新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=奇幻&rank=rank_new\n奇幻勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=奇幻&rank=rank_update\n军事热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=军事&rank=rank_hot\n军事好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=军事&rank=rank_good\n军事完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=军事&rank=rank_finish\n军事窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=军事&rank=rank_increase\n军事新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=军事&rank=rank_new\n军事勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=军事&rank=rank_update\n体育热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=体育&rank=rank_hot\n体育好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=体育&rank=rank_good\n体育完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=体育&rank=rank_finish\n体育窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=体育&rank=rank_increase\n体育新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=体育&rank=rank_new\n体育勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=male&cate=体育&rank=rank_update\n　　　　　　　  女频🚺总榜  　　　　　　　::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=全部&rank=rank_update\n现言热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=现言&rank=rank_hot\n现言好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=现言&rank=rank_good\n现言完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=现言&rank=rank_finish\n现言窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=现言&rank=rank_increase\n现言新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=现言&rank=rank_new\n现言勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=现言&rank=rank_update\n同人热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=同人&rank=rank_hot\n同人好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=同人&rank=rank_good\n同人完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=同人&rank=rank_finish\n同人窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=同人&rank=rank_increase\n同人新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=同人&rank=rank_new\n同人勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=同人&rank=rank_update\n古言热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=古言&rank=rank_hot\n古言好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=古言&rank=rank_good\n古言完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=古言&rank=rank_finish\n古言窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=古言&rank=rank_increase\n古言新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=古言&rank=rank_new\n古言勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=古言&rank=rank_update\n轻幻热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=二次元&rank=rank_hot\n轻幻好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=二次元&rank=rank_good\n轻幻完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=二次元&rank=rank_finish\n轻幻窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=二次元&rank=rank_increase\n轻幻新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=二次元&rank=rank_new\n轻幻勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=二次元&rank=rank_update\n幻言热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=幻言&rank=rank_hot\n幻言好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=幻言&rank=rank_good\n幻言完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=幻言&rank=rank_finish\n幻言窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=幻言&rank=rank_increase\n幻言新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=幻言&rank=rank_new\n幻言勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=幻言&rank=rank_update\n校园热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=校园&rank=rank_hot\n校园好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=校园&rank=rank_good\n校园完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=校园&rank=rank_finish\n校园窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=校园&rank=rank_increase\n校园新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=校园&rank=rank_new\n校园勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=校园&rank=rank_update\n耽美热搜榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=耽美&rank=rank_hot\n耽美好评榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=耽美&rank=rank_good\n耽美完结榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=耽美&rank=rank_finish\n耽美窜升榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=耽美&rank=rank_increase\n耽美新书榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=耽美&rank=rank_new\n耽美勤更榜::https://quark.sm.cn/api/rest?method=Novelnew.home&gender=female&cate=耽美&rank=rank_update",
-        "header": "{\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36\"}",
+        "header": "{\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36\"}",
         "lastUpdateTime": 1608521727120,
         "loginUrl": "https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu",
         "ruleBookInfo": {
@@ -17050,7 +17050,7 @@
         "customOrder": 55,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4080.0 Safari/537.36 Edg/82.0.453.0\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Edg/90.0.781.0\"\n}",
         "lastUpdateTime": 1610103450220,
         "ruleBookInfo": {
             "author": "author",
@@ -17399,7 +17399,7 @@
         "customOrder": 10055,
         "enabled": true,
         "enabledExplore": true,
-        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
+        "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/90.0.4402.0 Safari/537.36\"\n}",
         "lastUpdateTime": 0,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -17472,7 +17472,7 @@
         "enabled": true,
         "enabledExplore": true,
         "exploreUrl": "",
-        "header": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36",
+        "header": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36",
         "lastUpdateTime": 1603025389185,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -17486,7 +17486,7 @@
         "ruleContent": {
             "content": "//*[@id=\"BookText\"]",
             "nextContentUrl": "text.下一页@tag.a@href@js:\nr=(\"\"+result).match(/['\"]([^'\"]*)/)\nr&&r[1]||result",
-            "replaceRegex": "#天才一秒记住.*|[a-zA-Z]+://[^\\s]*|本章未完.*点击下一页继续阅读"
+            "replaceRegex": "天才一秒记住.*|[a-zA-Z]+://[^\\s]*|本章未完.*点击下一页继续阅读|加入书签.*方便阅读"
         },
         "ruleExplore": {},
         "ruleSearch": {
