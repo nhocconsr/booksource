@@ -17460,5 +17460,48 @@
         },
         "searchUrl": "https://novel.tingroom.com/wap/index.php?moduleid=1025&type=2&kw={{key}}",
         "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🍺特优",
+        "bookSourceName": "拾古今小说",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.10gujin.com",
+        "bookUrlPattern": "",
+        "customOrder": 0,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "",
+        "header": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36",
+        "lastUpdateTime": 1603025389185,
+        "loginUrl": "",
+        "ruleBookInfo": {
+            "author": "//div[1]/div/div/div[2]/p[1]/a[1]/text()",
+            "coverUrl": "//div/img/@src",
+            "intro": "//*[@id=\"bookIntro d3d3LnhpYW9zaHVvbS5jb20=\"]",
+            "kind": "//div[1]/div/div/div[2]/p[1]/a[2]/text()",
+            "lastChapter": "//div[1]/div/div/div[2]/p[3]/a/text()",
+            "name": "//div[1]/div/div/div[2]/h1/text()"
+        },
+        "ruleContent": {
+            "content": "//*[@id=\"BookText\"]",
+            "nextContentUrl": "text.下一页@tag.a@href@js:\nr=(\"\"+result).match(/['\"]([^'\"]*)/)\nr&&r[1]||result"
+            },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "//td[3]/text()",
+            "bookList": "//*[@class=\"table\"]//tr[position()>1]",
+            "bookUrl": "//td[1]/a/@href",
+            "lastChapter": "//td[3]/a/text()",
+            "name": "//td[1]/a/text()",
+            "wordCount": "//td[4]/text()"
+        },
+        "ruleToc": {
+            "chapterList": "//div[2]/div[3]/dl/dd//a",
+            "chapterName": "//text()",
+            "chapterUrl": "//@href@js:\nr=result.match(/['\"]([^'\"]*)/)\nr&&r[1]||result"
+            },
+        "searchUrl": "/search/?searchtype=all&action=login&searchkey={{key}}",
+        "weight": 0
     }
 ]
