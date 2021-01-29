@@ -424,14 +424,14 @@
     {
         "bookSourceComment": "error:Connection reset\n",
         "bookSourceGroup": "🍺特优",
-        "bookSourceName": "🍺 新笔下文学",
+        "bookSourceName": "🍺 糯米小说网",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.nuomi9.com/",
         "bookUrlPattern": "",
         "customOrder": -38405,
         "enabled": true,
         "enabledExplore": true,
-        "exploreUrl": "最新入库::https://www.newbixia.com/\n全本小说::https://www.newbixia.com/quanben/\n玄幻小说::https://www.newbixia.com/xuanhuan/{{page}}.html\n修真小说::https://www.newbixia.com/xianxia/{{page}}.html\n都市小说::https://www.newbixia.com/dushi/{{page}}.html\n历史小说::https://www.newbixia.com/junshi/{{page}}.html\n网游小说::https://www.newbixia.com/wangyou/{{page}}.html\n科幻小说::https://www.newbixia.com/kehuan/{{page}}.html\n言情小说::https://www.newbixia.com/yanqing/{{page}}.html\n其它小说::https://www.newbixia.com/qita/{{page}}.html",
+        "exploreUrl": "最新入库::https://www.nuomi9.com/\n全本小说::https://www.nuomi9.com/quanben/\n玄幻小说::https://www.nuomi9.com/xuanhuan/{{page}}.html\n修真小说::https://www.nuomi9.com/xianxia/{{page}}.html\n都市小说::https://www.nuomi9.com/dushi/{{page}}.html\n历史小说::https://www.nuomi9.com/junshi/{{page}}.html\n网游小说::https://www.nuomi9.com/wangyou/{{page}}.html\n科幻小说::https://www.nuomi9.com/kehuan/{{page}}.html\n言情小说::https://www.nuomi9.com/yanqing/{{page}}.html\n其它小说::https://www.nuomi9.com/qita/{{page}}.html",
         "lastUpdateTime": 1605089268923,
         "loginUrl": "",
         "ruleBookInfo": {
@@ -457,7 +457,7 @@
             "chapterName": "text",
             "chapterUrl": "href"
         },
-        "searchUrl": "https://www.newbixia.com/web/search.php?q={{key}}&p={{page}}",
+        "searchUrl": "https://www.nuomi9.com/web/search.php?q={{key}}&p={{page}}",
         "weight": 0
     },
     {
@@ -17323,4 +17323,3 @@
         "searchUrl": "http://www.147xs.com\/search.php?keyword={{key}}",
         "weight": 0
     }
-]
