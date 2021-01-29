@@ -1,54 +1,4 @@
 [{
-        "bookSourceComment": "",
-        "bookSourceGroup": "🍺特优",
-        "bookSourceName": "笔趣读",
-        "bookSourceType": 0,
-        "bookSourceUrl": "https://www.biqudu.cc",
-        "customOrder": -100000,
-        "enabled": true,
-        "enabledExplore": true,
-        "exploreUrl": "首页推荐::/\n总点击::/top/allvisit/{{page}}.html",
-        "header": "",
-        "lastUpdateTime": 0,
-        "ruleBookInfo": {
-            "author": "[property=\"og:novel:author\"]@content",
-            "canReName": "true",
-            "coverUrl": "[property=\"og:image\"]@content",
-            "intro": "id.bookIntro@textNodes",
-            "kind": "",
-            "lastChapter": "[property=\"og:novel:latest_chapter_name\"]@content##章节目录\\s",
-            "name": "[property=\"og:novel:book_name\"]@content",
-            "wordCount": "class.booktag@tag.span.-2@text##字数："
-        },
-        "ruleContent": {
-            "content": "id.htmlContent@textNodes",
-            "replaceRegex": "##\\s*{{book.durChapterTitle}}\\s*|\\s*.*biqudu.*\\s*"
-        },
-        "ruleExplore": {
-            "author": "tag.small@text||tag.td.2@text",
-            "bookList": "class.tab-content@tag.li||tag.table@tag.tr!0",
-            "bookUrl": "tag.a.0@href",
-            "kind": "",
-            "lastChapter": "tag.a.1@text",
-            "name": "tag.a.0@text"
-        },
-        "ruleSearch": {
-            "author": "tag.li.2@text",
-            "bookList": "@css:.mySearch ul",
-            "bookUrl": "tag.a.0@href",
-            "kind": "",
-            "lastChapter": "tag.a.1@text",
-            "name": "tag.a.0@text"
-        },
-        "ruleToc": {
-            "chapterList": "@css:#list-chapterAll dd a",
-            "chapterName": "text",
-            "chapterUrl": "href"
-        },
-        "searchUrl": "/modules/article/search.php?searchkey={{key}}&page={{page}},{\n\"charset\": \"gbk\"\n}",
-        "weight": 0
-    },
-    {
         "bookSourceComment": "酷安",
         "bookSourceGroup": "🍺特优",
         "bookSourceName": "爱看书",
@@ -321,74 +271,9 @@
     {
         "bookSourceComment": "error:Connection reset\n",
         "bookSourceGroup": "🍺特优",
-        "bookSourceName": "🌸 一四七",
-        "bookSourceType": 0,
-        "bookSourceUrl": "https://www.147xs.org",
-        "bookUrlPattern": "",
-        "customOrder": -38488,
-        "enabled": true,
-        "enabledExplore": true,
-        "exploreUrl": "",
-        "header": "",
-        "lastUpdateTime": 1604176480327,
-        "loginUrl": "🧽wordcount",
-        "ruleBookInfo": {
-            "author": "author",
-            "coverUrl": "cover",
-            "init": "<js>\nvar J = org.jsoup.Jsoup.parse(result);\nvar og = (selector) =>\n  J.select('[property=\"og:' + selector + '\"]').attr('content');\n\nvar book = {\n  name: og('novel:book_name'),\n  author: og('novel:author'),\n  kind: og('novel:category') + ',' + og('novel:status'),\n  latest: og('novel:latest_chapter_name') + ' • ' + String(og('novel:update_time')).replace(/(\\d+:\\d+:\\d+)/,''),\n  cover: og('image'),\n  intro: og('description'),\n  url: og('novel:read_url'),\n};\n\nbook;\n</js>",
-            "intro": "intro",
-            "kind": "kind",
-            "lastChapter": "latest",
-            "name": "name",
-            "tocUrl": "url",
-            "wordCount": ""
-        },
-        "ruleContent": {
-            "content": "#content@html##.147小说.*xbzs.cc.",
-            "imageStyle": "0",
-            "nextContentUrl": "",
-            "sourceRegex": "",
-            "webJs": ""
-        },
-        "ruleExplore": {
-            "author": "",
-            "bookList": "",
-            "bookUrl": "",
-            "coverUrl": "",
-            "intro": "",
-            "kind": "",
-            "lastChapter": "",
-            "name": "",
-            "wordCount": ""
-        },
-        "ruleSearch": {
-            "author": "author",
-            "bookList": "#bookcase_list tr<js>\nresult\n  .toArray()\n  .slice(0, 5)\n  .map(function (el) {\n    var url = String(el.select('a').eq(0).attr('href')).replace(\n      /^\\/([^\\/])/,\n      baseUrl.match(/(.+\\/\\/.+?\\/)/)[1] + '$1'\n    );\n    var J = org.jsoup.Jsoup.parse(String(java.ajax(url)));\n    var og = (selector) =>\n      J.select('[property=\"og:' + selector + '\"]').attr('content');\n\n    return {\n      name: og('novel:book_name'),\n      author: og('novel:author'),\n      kind: og('novel:category') + ',' + og('novel:status'),\n      latest: og('novel:latest_chapter_name') + ' • ' + String(og('novel:update_time')).replace(/(\\d+:\\d+:\\d+)/,''),\n      cover: og('image'),\n      intro: og('description'),\n      url: og('novel:read_url'),\n    };\n  });\n</js>",
-            "bookUrl": "url",
-            "coverUrl": "cover",
-            "intro": "intro",
-            "kind": "kind",
-            "lastChapter": "latest",
-            "name": "name",
-            "wordCount": ""
-        },
-        "ruleToc": {
-            "chapterList": "#list dd a",
-            "chapterName": "text",
-            "chapterUrl": "href",
-            "isVip": "",
-            "nextTocUrl": "",
-            "updateTime": ""
-        },
-        "searchUrl": "/search.php,{\n  \"method\": \"POST\",\n  \"body\": \"keyword={{key}}\"\n}",
-        "weight": 0
-    },
-    {
-        "bookSourceComment": "error:Connection reset\n",
-        "bookSourceGroup": "🍺特优",
         "bookSourceName": "🌸 88小说",
         "bookSourceType": 0,
-        "bookSourceUrl": "https://www.88xiaoshuo.com",
+        "bookSourceUrl": "http://www.88xiaoshuo.com",
         "bookUrlPattern": "",
         "customOrder": -38443,
         "enabled": true,
@@ -444,51 +329,7 @@
             "nextTocUrl": "",
             "updateTime": ""
         },
-        "searchUrl": "https://m.88xiaoshuo.com/so.html,{\n  \"method\": \"POST\",\n  \"body\": \"keyword={{key}}\"\n}",
-        "weight": 0
-    },
-    {
-        "bookSourceComment": "error:Connection reset\n",
-        "bookSourceGroup": "🍺特优",
-        "bookSourceName": "🌸 17k免费",
-        "bookSourceType": 0,
-        "bookSourceUrl": "https://api.ali.17k.com",
-        "customOrder": -38434,
-        "enabled": true,
-        "enabledExplore": true,
-        "exploreUrl": "𐂂                点击榜                𐂂::https://api.17k.com\n连载月点击::https://api.17k.com/v2/book/solr?sort_type=3&app_key=4037465544&book_status=1&page=<{{page}}>&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n连载总点击::https://api.17k.com/v2/book/solr?sort_type=4&app_key=4037465544&book_status=1&page=<{{page}}>&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n热门月点击::https://api.17k.com/v2/book/solr?sort_type=3&app_key=4037465544&book_status=3&page=<{{page}}>&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n热门总点击::https://api.17k.com/v2/book/solr?sort_type=4&app_key=4037465544&book_status=3&page=<{{page}}>&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n男频月点击::https://api.17k.com/v2/book/solr?sort_type=3&site=2&app_key=4037465544&page=<{{page}}>&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n男频总点击::https://api.17k.com/v2/book/solr?sort_type=4&site=2&app_key=4037465544&page=1&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n女频月点击::https://api.17k.com/v2/book/solr?sort_type=3&site=3&app_key=4037465544&page=<{{page}}>&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n女频总点击::https://api.17k.com/v2/book/solr?sort_type=4&site=3&app_key=4037465544&page=<{{page}}>&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n𐂂                人气榜                𐂂::https://api.17k.com/v2/book/rank?app_key=4037465544&site=0&time=0&page=<{{page}}>&type=1&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0\n新书人气榜::https://api.ali.17k.com/v2/book/rank?app_key=4037465544&site=0&time=0&page=<{{page}}>&type=6&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n男频人气榜::https://api.ali.17k.com/v2/book/rank?app_key=4037465544&site=2&time=0&page=<{{page}}>&type=6&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n女频人气榜::https://api.ali.17k.com/v2/book/rank?app_key=4037465544&site=3&time=0&page=<{{page}}>&type=1&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n𐂂                畅销榜                𐂂::https://api.17k.com/v2/book/rank?app_key=4037465544&site=0&time=0&page=<{{page}}>&type=4&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0\n完本畅销男::https://api.ali.17k.com/v2/book/rank?app_key=4037465544&site=2&time=0&page=<{{page}}>&type=3&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n完本畅销女::https://api.ali.17k.com/v2/book/rank?app_key=4037465544&site=3&time=0&page=<{{page}}>&type=3&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n𐂂               其他热榜              𐂂::https://api.17k.com\n红包打赏榜::https://api.17k.com/v2/book/rank?app_key=4037465544&site=3&time=0&page=<{{page}}>&type=5&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0\n免费新书榜::https://api.17k.com/v2/book/rank?app_key=4037465544&site=4&time=0&page=<{{page}}>&type=6&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0\n完本好书榜::https://api.17k.com/v2/book/rank?app_key=4037465544&site=2&time=0&page=<{{page}}>&type=3&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0\n出版图书榜::https://api.17k.com/v2/book/rank?app_key=4037465544&time=0&page=<{{page}}>&type=7&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0\n荣誉称号榜::https://api.17k.com/v2/book/rank?app_key=4037465544&time=0&page=<{{page}}>&type=8&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0 \n出版物排行::https://api.ali.17k.com/v2/book/rank?app_key=4037465544&site=2&time=2&page=<{{page}}>&type=7&_versions=973&client_type=1&_filter_data=1&channel=2&merchant=slhl3&_access_version=2&cps=0\n热评排行榜::https://api.17k.com/v2/book/rank?app_key=4037465544&site=2&time=0&page=<{{page}}>&type=9&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0\n更新排行榜::https://api.17k.com/v2/book/rank?app_key=4037465544&site=0&time=0&page=<{{page}}>&type=10&_versions=980&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0 \n𐂂                            分类                            𐂂::https://api.17k.com\n都市小说::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n都市异能::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=87&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n都市重生::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=89&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n职场励志::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=90&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n现实题材::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=91&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n娱乐明星::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=116&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n都市激战::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=92&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n商业大亨::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=117&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n校园风云::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=118&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n乡村乡土::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=3&categoryId=119&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n玄幻奇幻::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=21&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n异世争霸::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=21&categoryId=115&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n魔法校园::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=21&categoryId=122&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n领主贵族::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=21&categoryId=123&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n西方奇幻::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=21&categoryId=1&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n东方玄幻::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=21&categoryId=8&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n异界大陆::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=21&categoryId=83&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n异术超能::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=21&categoryId=84&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n仙侠武侠::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n洪荒封神::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&categoryId=85&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n现代异侠::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&categoryId=96&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n历史武侠::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&categoryId=124&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n奇幻修真::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&categoryId=82&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n国术古武::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&categoryId=125&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n传统武侠::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&categoryId=2&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n现代修真::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&categoryId=81&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n古典仙侠::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=24&categoryId=9&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n历史军事::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=22&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n历史穿越::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=22&categoryId=4&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n架空历史::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=22&categoryId=93&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n战争幻想::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=22&categoryId=11&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n军旅生涯::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=22&categoryId=94&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n历史传奇::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=22&categoryId=120&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n战史风云::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=22&categoryId=126&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n谍战特工::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=22&categoryId=127&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n游戏竞技::https://api.17k.com/book/search?sort=15&page={{page}}&channelId=23&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n虚拟网游::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=23&categoryId=5&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n电子竞技::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=23&categoryId=12&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n游戏生涯::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=23&categoryId=14&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n篮球风云::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=23&categoryId=97&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n天下足球::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=23&categoryId=98&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n棋牌桌游::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=23&categoryId=99&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n游戏异界::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=23&categoryId=121&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n体育竞技::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=23&categoryId=100&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n科幻末世::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=14&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n进化变异::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=14&categoryId=129&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n时空穿梭::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=14&categoryId=130&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n未来幻想::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=14&categoryId=6&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n古武机甲::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=14&categoryId=131&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n星际战争::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=14&categoryId=95&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n古装言情::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n快意江湖::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&categoryId=132&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n架空历史::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&categoryId=133&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n古代重生::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&categoryId=139&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n前世今生::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&categoryId=140&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n经商种田::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&categoryId=165&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n宫廷贵族::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&categoryId=10&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n穿越时空::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&categoryId=22&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n家宅恩怨::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=5&categoryId=7&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n都市言情::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n总裁豪门::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=134&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n游戏情缘::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=135&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n都市情缘::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=136&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n现代重生::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=166&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n娱乐明星::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=167&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n民国旧影::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=168&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n跨国情缘::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=169&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n职场丽人::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=16&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n婚恋爱情::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=17&categoryId=26&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n青春浪漫::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=20&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n幻想言情::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=18&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n玄幻仙侠::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=18&categoryId=137&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n异界魔法::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=18&categoryId=138&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n星际科幻::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=18&categoryId=170&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n灵异悬疑::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=18&categoryId=24&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n末世危机::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=18&categoryId=171&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n异能空间::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=18&categoryId=172&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\n西方奇幻::https://api.17k.com/book/search?sort=15&page=<{{page}}>&channelId=18&categoryId=173&clientType=1&cpsOpid=17Kxiaomi&_filterData=1&channel=0&_versions=1041&merchant=17Kxiaomi&appKey=4037465544&cpsSource=0&platform=2\nnull",
-        "lastUpdateTime": 1604246326485,
-        "loginUrl": "可搜索可看",
-        "ruleBookInfo": {},
-        "ruleContent": {
-            "content": "$.data.content##(\\s*?第.{0,8}章.{0,20}\\n)##"
-        },
-        "ruleExplore": {
-            "author": "$.authorPenName||$.author_name",
-            "bookList": "$.data||$.data.lists",
-            "bookUrl": "/v2/book/{{$.id}}/volumes?app_type=8&app_key=4037465544&price_extend=1&_versions=979&client_type=10&_filter_data=1&channel=2&merchant=FD-wdj&_access_version=2&cps=0",
-            "coverUrl": "$.coverImg||$.cover",
-            "intro": "$.introduction||$.intro",
-            "kind": "$.bookCategory.name||$.category_name_2",
-            "lastChapter": "$.lastUpdateChapterName||$.last_update_chapter_name",
-            "name": "$.bookName||$.book_name@put:{book:id}"
-        },
-        "ruleSearch": {
-            "author": "author_name",
-            "bookList": "$.data",
-            "bookUrl": "/v2/book/{{$.id}}/volumes?app_type=8&app_key=4037465544&price_extend=1&_versions=979&client_type=10&_filter_data=1&channel=2&merchant=FD-wdj&_access_version=2&cps=0",
-            "coverUrl": "cover",
-            "intro": "intro",
-            "kind": "$.bookChannel.name",
-            "lastChapter": "last_update_chapter_name",
-            "name": "$.book_name@put:{book:id}"
-        },
-        "ruleToc": {
-            "chapterList": "$.data.volumes..chapters[*]",
-            "chapterName": "$..chapter_name",
-            "chapterUrl": "/v2/book/@get:{book}/chapter/{{$.chapter_id}}/content?app_type=8&app_key=4037465544&_versions=979&client_type=10&_filter_data=1&channel=2&merchant=FD-wdj&_access_version=2&cps=0"
-        },
-        "searchUrl": "/v2/book/search?app_key=4037465544&sort_type=0&page={{page}}&class=0&key={{key}}&_versions=971&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0",
+        "searchUrl": "http://m.88xiaoshuo.com/so.html,{\n  \"method\": \"POST\",\n  \"body\": \"keyword={{key}}\"\n}",
         "weight": 0
     },
     {
@@ -541,48 +382,7 @@
     {
         "bookSourceComment": "error:Connection reset\n",
         "bookSourceGroup": "🍺特优",
-        "bookSourceName": "🌸 米阅",
-        "bookSourceType": 0,
-        "bookSourceUrl": "https://www.miyuesf.com",
-        "bookUrlPattern": "",
-        "customOrder": -38416,
-        "enabled": true,
-        "enabledExplore": true,
-        "lastUpdateTime": 1603353869902,
-        "loginUrl": "coolapk@芜恙",
-        "ruleBookInfo": {
-            "author": "h2@text",
-            "intro": ".intro@html",
-            "kind": ".info a@text",
-            "lastChapter": ".info@textNodes##标签:",
-            "name": "h2@text##\\+番外|作者.*"
-        },
-        "ruleContent": {
-            "content": ".content@html"
-        },
-        "ruleExplore": {},
-        "ruleSearch": {
-            "author": "h3@text",
-            "bookList": ".resultlist li",
-            "bookUrl": "h3 a@href",
-            "intro": "p@text",
-            "kind": "span@tag.a.1@text",
-            "lastChapter": "span@text##.*日期：",
-            "name": "h3@text##\\+番外|作者.*"
-        },
-        "ruleToc": {
-            "chapterList": "<js>\nvar p = result.match(/共(\\d+)页/)[1];\nvar list = [{\n\tt: '1',\n\th: baseUrl\n}];\nfor (var i = 2; i <= p; i++) {\n\tlist.push({\n\t\tt: '' + i,\n\t\th: baseUrl.replace(/\\.html/, '_' + i + '.html')\n\t})\n}\nlist\n</js>",
-            "chapterName": "t",
-            "chapterUrl": "h",
-            "nextTocUrl": ""
-        },
-        "searchUrl": "/plus/search.php?keyword={{key}}&searchtype=title&channeltype=0&orderby=&kwtype=0&pagesize=10&typeid=0&TotalResult=146&PageNo={{page}},{\"charset\": \"gb2312\"}",
-        "weight": 0
-    },
-    {
-        "bookSourceComment": "error:Connection reset\n",
-        "bookSourceGroup": "🍺特优",
-        "bookSourceName": "🍺 88读书网",
+        "bookSourceName": "🍺 九思小说网",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.88xdushu.com",
         "bookUrlPattern": "",
@@ -626,7 +426,7 @@
         "bookSourceGroup": "🍺特优",
         "bookSourceName": "🍺 新笔下文学",
         "bookSourceType": 0,
-        "bookSourceUrl": "https://www.newbixia.com",
+        "bookSourceUrl": "https://www.nuomi9.com/",
         "bookUrlPattern": "",
         "customOrder": -38405,
         "enabled": true,
@@ -14770,53 +14570,6 @@
     },
     {
         "bookSourceComment": "",
-        "bookSourceGroup": "🍺特优",
-        "bookSourceName": "147小说",
-        "bookSourceType": 0,
-        "bookSourceUrl": "https://m.147xs.org",
-        "customOrder": 0,
-        "enabled": true,
-        "enabledExplore": true,
-        "exploreUrl": "玄幻::https://m.147xs.org/sort/1/&&修真::https://m.147xs.org/sort/2/&&都市::https://m.147xs.org/sort/3/&&穿越::https://m.147xs.org/sort/4/&&网游::https://m.147xs.org/sort/5/&&科幻::https://m.147xs.org/sort/6/&&次元::https://m.147xs.org/sort/7/&&综合::https://m.147xs.org/sort/8/&&青春::https://m.147xs.org/sort/9/&&现言::https://m.147xs.org/sort/10/&&古言::https://m.147xs.org/sort/11/&&幻想::https://m.147xs.org/sort/12/&&排行::https://m.147xs.org/paihang/&&完本::https://m.147xs.org/wanben/",
-        "lastUpdateTime": 1604748332308,
-        "ruleBookInfo": {
-            "coverUrl": "[property=\"og:image\"]@content=",
-            "intro": "[property=\"og:description\"]@content",
-            "kind": "[property=\"og:novel:category\"]@content",
-            "lastChapter": "[property=\"og:novel:latest_chapter_name\"]@content",
-            "tocUrl": "@js:baseUrl+'all.html'",
-            "wordCount": "[property=\"og:novel:update_time\"]@content"
-        },
-        "ruleContent": {
-            "content": ".nr_nr@html##.*www.*?.com.*",
-            "nextContentUrl": "#pb_next@href"
-        },
-        "ruleExplore": {
-            "author": ".author@text",
-            "bookList": ".hot_sale",
-            "bookUrl": "a@href",
-            "coverUrl": "img@data-original",
-            "intro": "tag.p.2@html",
-            "name": ".title@text"
-        },
-        "ruleSearch": {
-            "author": "tag.p.0@text",
-            "bookList": "@css:div.user-bookcase dl",
-            "bookUrl": "tag.a.0@href",
-            "coverUrl": "tag.a.0@href@js:var id=result.match(/\\/(\\d+)\\D*/)[1];\n'https://img147xscom.cdn.bcebos.com/img/'+id+'.jpg'",
-            "lastChapter": "tag.a.1@text",
-            "name": "tag.a.0@text##.*\\]"
-        },
-        "ruleToc": {
-            "chapterList": "@css:dl.list-striped dd a",
-            "chapterName": "text",
-            "chapterUrl": "href"
-        },
-        "searchUrl": "https://m.147xs.org/search.php,{\n\"method\": \"POST\",\n\"body\": \"keyword={{key}}\",\n\"headers\": {\"User-Agent\": \"\"}\n}",
-        "weight": 0
-    },
-    {
-        "bookSourceComment": "",
         "bookSourceGroup": "💵正版",
         "bookSourceName": "晋江",
         "bookSourceType": 0,
@@ -17503,6 +17256,71 @@
             "chapterUrl": "//@href@js:\nr=result.match(/['\"]([^'\"]*)/)\nr&&r[1]||result"
         },
         "searchUrl": "/search/?searchtype=all&action=login&searchkey={{key}}",
+        "weight": 0
+    },
+    {
+        "bookSourceGroup": "🍺特优",
+        "bookSourceName": "旧时光",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://www.oldtimescc.cc",
+        "bookUrlPattern": "",
+        "customOrder": -864,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "玄幻::\/xuanhuan-{{page}}.html\n仙侠::\/xianxia-{{page}}.html\n都市::\/dushi-{{page}}.html\n军史::\/junshi-{{page}}.html\n网游::\/wangyou-{{page}}.html\n科幻::\/kehuan-{{page}}.html\n灵异::\/lingyi-{{page}}.html\n言情::\/yanqing-{{page}}.html\n其他::\/qita-{{page}}.html",
+        "lastUpdateTime": 0,
+        "loginUrl": "",
+        "ruleBookInfo": {
+            "author": "class.booktag@tag.a.0@text",
+            "coverUrl": "tag.img@src",
+            "intro": "class.bookintro@text",
+            "kind": "\/\/*[@property=\"og:novel:category\"]\/@content",
+            "lastChapter": "class.bookchapter@text##章节目录",
+            "name": "class.booktitle@tag.h1@text",
+            "wordCount": "class.booktag@tag.span.0@text"
+        },
+        "ruleContent": {
+            "content": "class.readcontent@textNodes##本站.*最新章节！",
+            "nextContentUrl": "text.下一页.0@href"
+        },
+        "ruleExplore": {
+            "coverUrl": "class.bookname@tag.a.0@href<js>\nvar id = result.match(\/(\\d+)\\\/?$\/)[1];\nvar iid = parseInt(id\/1000);\n'https://www.oldtimescc.cc\/files\/article\/image\/'+iid+'\/'+id+'\/'+id+'s.jpg';\n<\/js>"
+        },
+        "ruleSearch": {
+            "author": "class.author@text",
+            "bookList": "id.fengtui@class.bookbox",
+            "bookUrl": "class.bookname@tag.a.0@href",
+            "coverUrl": "class.bookname@tag.a.0@href<js>\nvar id = result.match(\/(\\d+)\\\/?$\/)[1];\nvar iid = parseInt(id\/1000);\n'https://www.oldtimescc.cc\/files\/article\/image\/'+iid+'\/'+id+'\/'+id+'s.jpg';\n<\/js>",
+            "intro": "class.update@text##简介：",
+            "lastChapter": "class.cat@tag.a.0@text",
+            "name": "class.bookname@tag.a.0@text"
+        },
+        "ruleToc": {
+            "chapterList": "id.list-chapterAll@tag.dd",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href"
+        },
+        "searchUrl": "https://www.oldtimescc.cc\/modules\/article\/search.php?searchkey={{key}}&action=login&submit=,{\n  \"charset\": \"gbk\"\n}",
+        "weight": 0
+    },
+    {
+        "bookSourceGroup": "🍺特优",
+        "bookSourceName": "🍺147小说网",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.147xs.com",
+        "bookUrlPattern": "",
+        "customOrder": 0,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "玄幻::http://www.147xs.com\/sort\/1\/\n修真::http://www.147xs.com\/sort\/2\/\n都市::http://www.147xs.com\/sort\/3\/\n历史::http://www.147xs.com\/sort\/4\/\n网游::http://www.147xs.com\/sort\/6\/\n科幻::http://www.147xs.com\/sort\/7\/\n奇幻::http://www.147xs.com\/sort\/10\/\n武侠::http://www.147xs.com\/sort\/11\/\n军事::http://www.147xs.com\/sort\/8\/\n竞技::http://www.147xs.com\/sort\/12\/\n灵异::http://www.147xs.com\/sort\/9\/\n职场::http://www.147xs.com\/sort\/5\/",
+        "lastUpdateTime": 0,
+        "loginUrl": "",
+        "ruleBookInfo": "{\n  \"coverUrl\": \"id.fmimg@tag.a@img@src\",\n  \"intro\": \"id.intro@text\",\n  \"lastChapter\": \"id.info@tag.p.3@tag.a@text\",\n  \"name\": \"id.info@tag.h1@text\"\n}",
+        "ruleContent": "{\n  \"content\": \"id.content@html\"\n}",
+        "ruleExplore": "{}",
+        "ruleSearch": "{\n  \"author\": \"tag.td.2@text||tag.li@text##.*.\/\",\n  \"bookList\": \"id.bookcase_list@tag.tr||class.novellist@tag.ul@tag.li\",\n  \"bookUrl\": \"tag.td.0@tag.a@href||tag.a@href\",\n  \"kind\": \"\",\n  \"lastChapter\": \"tag.td.1@tag.a@text\",\n  \"name\": \"tag.td.0@tag.a@text||tag.a@text##\/.*\"\n}",
+        "ruleToc": "{\n  \"chapterList\": \"id.list@tag.dl@tag.dd\",\n  \"chapterName\": \"tag.a@text\",\n  \"chapterUrl\": \"tag.a@href\"\n}",
+        "searchUrl": "http://www.147xs.com\/search.php?keyword={{key}}",
         "weight": 0
     }
 ]
