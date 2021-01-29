@@ -14579,7 +14579,7 @@
         "enabledExplore": true,
         "exploreUrl": "古言::https://app-cdn.jjwxc.net/bookstore/getFullPage?channel=gywx&version=3\n\n都市::https://app-cdn.jjwxc.net:80/bookstore/getFullPage?channel=dsyq&version=3\n幻言::https://app-cdn.jjwxc.net:80/bookstore/getFullPage?channel=qqyq&version=3\n古穿::https://app-cdn.jjwxc.net:80/bookstore/getFullPage?channel=gdcy&version=3\n奇幻::https://app-cdn.jjwxc.net:80/bookstore/getFullPage?channel=xhqh&version=3\n未来游戏悬疑::https://app-cdn.jjwxc.net:80/bookstore/getFullPage?channel=xywy&version=3\n衍生言情::https://app-cdn.jjwxc.net:80/bookstore/getFullPage?channel=trys&version=3\n二次元言情::https://app-cdn.jjwxc.net:80/bookstore/getFullPage?channel=trmd&version=3",
         "lastUpdateTime": 1608921911115,
-        "loginUrl": "",
+        "loginUrl": "https://app.jjwxc.org",
         "ruleBookInfo": {
             "author": "$.authorName",
             "coverUrl": "$.novelCover",
