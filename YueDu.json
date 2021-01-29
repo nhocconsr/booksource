@@ -17485,8 +17485,9 @@
         },
         "ruleContent": {
             "content": "//*[@id=\"BookText\"]",
-            "nextContentUrl": "text.下一页@tag.a@href@js:\nr=(\"\"+result).match(/['\"]([^'\"]*)/)\nr&&r[1]||result"
-            },
+            "nextContentUrl": "text.下一页@tag.a@href@js:\nr=(\"\"+result).match(/['\"]([^'\"]*)/)\nr&&r[1]||result",
+            "replaceRegex": "#天才一秒记住.*|[a-zA-Z]+://[^\\s]*"
+        },
         "ruleExplore": {},
         "ruleSearch": {
             "author": "//td[3]/text()",
@@ -17500,7 +17501,7 @@
             "chapterList": "//div[2]/div[3]/dl/dd//a",
             "chapterName": "//text()",
             "chapterUrl": "//@href@js:\nr=result.match(/['\"]([^'\"]*)/)\nr&&r[1]||result"
-            },
+        },
         "searchUrl": "/search/?searchtype=all&action=login&searchkey={{key}}",
         "weight": 0
     }
