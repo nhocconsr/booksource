@@ -2098,17 +2098,6 @@
         "weight": 0
     },
     {
-        "bookSourceComment": "error:Timed out waiting for 60000 ms\n",
-        "bookSourceGroup": "🎨漫画",
-        "bookSourceName": "🎨 里番本子库",
-        "bookSourceType": 0,
-        "bookSourceUrl": "https://lifanbzk.org",
-        "customOrder": -38021,
-        "enabled": true,
-        "searchUrl": "#",
-        "weight": 0
-    },
-    {
         "bookSourceComment": "error:Connection reset\n",
         "bookSourceGroup": "🍺特优",
         "bookSourceName": "🎉 妙笔阁",
