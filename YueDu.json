@@ -4033,6 +4033,50 @@
         "weight": 0
     },
     {
+        "bookSourceComment": "感谢关耳小姐姐修改",
+        "bookSourceGroup": "🎨漫画",
+        "bookSourceName": "🎨动漫之家v3🅰",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://v3api.dmzj.com",
+        "bookUrlPattern": "",
+        "customOrder": -3599,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "更新·全部漫画::https://nnv3api.dmzj1.com/latest/100/{{page-1}}.json?channel=Android&version=2.7.019\n更新·原创漫画::https://nnv3api.dmzj1.com/latest/1/{{page-1}}.json?channel=Android&version=2.7.019\n更新·译制漫画::https://nnv3api.dmzj1.com/latest/0/{{page-1}}.json?channel=Android&version=2.7.019\n日·人气排行::https://nnv3api.dmzj1.com/rank/0/0/0/{{page-1}}.json?channel=Android&version=2.7.019\n日·吐槽排行::https://nnv3api.dmzj1.com/rank/0/0/1/{{page-1}}.json?channel=Android&version=2.7.019\n日·订阅排行::https://nnv3api.dmzj1.com/rank/0/0/2/{{page-1}}.json?channel=Android&version=2.7.019\n周·人气排行::https://nnv3api.dmzj1.com/rank/0/1/0/{{page-1}}.json?channel=Android&version=2.7.019\n周·吐槽排行::https://nnv3api.dmzj1.com/rank/0/1/1/{{page-1}}.json?channel=Android&version=2.7.019\n周·订阅排行::https://nnv3api.dmzj1.com/rank/0/1/2/{{page-1}}.json?channel=Android&version=2.7.019\n月·人气排行::https://nnv3api.dmzj1.com/rank/0/2/0/{{page-1}}.json?channel=Android&version=2.7.019\n月·吐槽排行::https://nnv3api.dmzj1.com/rank/0/2/1/{{page-1}}.json?channel=Android&version=2.7.019\n月·订阅排行::https://nnv3api.dmzj1.com/rank/0/2/2/{{page-1}}.json?channel=Android&version=2.7.019\n总·人气排行::https://nnv3api.dmzj1.com/rank/0/3/0/{{page-1}}.json?channel=Android&version=2.7.019\n总·吐槽排行::https://nnv3api.dmzj1.com/rank/0/3/1/{{page-1}}.json?channel=Android&version=2.7.019\n总·订阅排行::https://nnv3api.dmzj1.com/rank/0/3/2/{{page-1}}.json?channel=Android&version=2.7.019\n少年漫画::https://nnv3api.dmzj1.com/classify/3262/0/{{page-1}}.json?channel=Android&version=2.7.019\n少女漫画::https://nnv3api.dmzj1.com/classify/3263/0/{{page-1}}.json?channel=Android&version=2.7.019\n青年漫画::https://nnv3api.dmzj1.com/classify/3264/0/{{page-1}}.json?channel=Android&version=2.7.019\n女青漫画::https://nnv3api.dmzj1.com/classify/13626/0/{{page-1}}.json?channel=Android&version=2.7.019\n国漫::https://nnv3api.dmzj1.com/classify/2308/0/{{page-1}}.json?channel=Android&version=2.7.019\n日本::https://nnv3api.dmzj1.com/classify/2304/0/{{page-1}}.json?channel=Android&version=2.7.019\n韩国::https://nnv3api.dmzj1.com/classify/2305/0/{{page-1}}.json?channel=Android&version=2.7.019\n欧美::https://nnv3api.dmzj1.com/classify/2306/0/{{page-1}}.json?channel=Android&version=2.7.019\n连载::https://nnv3api.dmzj1.com/classify/2309/0/{{page-1}}.json?channel=Android&version=2.7.019\n完结::https://nnv3api.dmzj1.com/classify/2310/0/{{page-1}}.json?channel=Android&version=2.7.019\n冒险::https://nnv3api.dmzj1.com/classify/4/0/{{page-1}}.json?channel=Android&version=2.7.019\n欢乐::https://nnv3api.dmzj1.com/classify/5/0/{{page-1}}.json?channel=Android&version=2.7.019\n格斗::https://nnv3api.dmzj1.com/classify/6/0/{{page-1}}.json?channel=Android&version=2.7.019\n科幻::https://nnv3api.dmzj1.com/classify/7/0/{{page-1}}.json?channel=Android&version=2.7.019\n爱情::https://nnv3api.dmzj1.com/classify/8/0/{{page-1}}.json?channel=Android&version=2.7.019\n侦探::https://nnv3api.dmzj1.com/classify/9/0/{{page-1}}.json?channel=Android&version=2.7.019\n竞技::https://nnv3api.dmzj1.com/classify/10/0/{{page-1}}.json?channel=Android&version=2.7.019\n魔法::https://nnv3api.dmzj1.com/classify/11/0/{{page-1}}.json?channel=Android&version=2.7.019\n神鬼::https://nnv3api.dmzj1.com/classify/12/0/{{page-1}}.json?channel=Android&version=2.7.019\n校园::https://nnv3api.dmzj1.com/classify/13/0/{{page-1}}.json?channel=Android&version=2.7.019\n惊悚::https://nnv3api.dmzj1.com/classify/14/0/{{page-1}}.json?channel=Android&version=2.7.019\n其他::https://nnv3api.dmzj1.com/classify/16/0/{{page-1}}.json?channel=Android&version=2.7.019\n四格::https://nnv3api.dmzj1.com/classify/17/0/{{page-1}}.json?channel=Android&version=2.7.019\n美食::https://nnv3api.dmzj1.com/classify/3327/0/{{page-1}}.json?channel=Android&version=2.7.019\n职场::https://nnv3api.dmzj1.com/classify/3328/0/{{page-1}}.json?channel=Android&version=2.7.019\n百合::https://nnv3api.dmzj1.com/classify/3243/0/{{page-1}}.json?channel=Android&version=2.7.019\n伪娘::https://nnv3api.dmzj1.com/classify/3244/0/{{page-1}}.json?channel=Android&version=2.7.019\n悬疑::https://nnv3api.dmzj1.com/classify/3245/0/{{page-1}}.json?channel=Android&version=2.7.019\n耽美::https://nnv3api.dmzj1.com/classify/3246/0/{{page-1}}.json?channel=Android&version=2.7.019\n热血::https://nnv3api.dmzj1.com/classify/3248/0/{{page-1}}.json?channel=Android&version=2.7.019\n后宫::https://nnv3api.dmzj1.com/classify/3249/0/{{page-1}}.json?channel=Android&version=2.7.019\n萌系::https://nnv3api.dmzj1.com/classify/3252/0/{{page-1}}.json?channel=Android&version=2.7.019\n治愈::https://nnv3api.dmzj1.com/classify/3254/0/{{page-1}}.json?channel=Android&version=2.7.019\n励志::https://nnv3api.dmzj1.com/classify/3255/0/{{page-1}}.json?channel=Android&version=2.7.019\n性转::https://nnv3api.dmzj1.com/classify/4518/0/{{page-1}}.json?channel=Android&version=2.7.019\n东方::https://nnv3api.dmzj1.com/classify/5077/0/{{page-1}}.json?channel=Android&version=2.7.019\n魔幻::https://nnv3api.dmzj1.com/classify/5806/0/{{page-1}}.json?channel=Android&version=2.7.019\n奇幻::https://nnv3api.dmzj1.com/classify/5848/0/{{page-1}}.json?channel=Android&version=2.7.019\n轻改::https://nnv3api.dmzj1.com/classify/6316/0/{{page-1}}.json?channel=Android&version=2.7.019\n颜艺::https://nnv3api.dmzj1.com/classify/6437/0/{{page-1}}.json?channel=Android&version=2.7.019\n搞笑::https://nnv3api.dmzj1.com/classify/7568/0/{{page-1}}.json?channel=Android&version=2.7.019\n仙侠::https://nnv3api.dmzj1.com/classify/7900/0/{{page-1}}.json?channel=Android&version=2.7.019",
+        "lastUpdateTime": 1612061374089,
+        "loginUrl": "",
+        "ruleBookInfo": {
+            "author": "$.authors..tag_name",
+            "coverUrl": "",
+            "intro": "$.description",
+            "kind": "$.types..tag_name&&$.status..tag_name",
+            "lastChapter": "$.last_update_chapter_name",
+            "name": "$.title@put:{bid:id}"
+        },
+        "ruleContent": {
+            "content": "$.page_url[*]\n@js:\nlist=result.split(\"\\n\");\nheader={\"Referer\":baseUrl};\nheaders={\"headers\":JSON.stringify(header)}\nhtml='';\nfor(i in list){\nhtml+='<img src=\"'+list[i]+','+JSON.stringify(headers)+'\">'\n}\nhtml",
+            "imageStyle": "FULL"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "$.authors",
+            "bookList": "$.*",
+            "bookUrl": "https://nnv3api.dmzj1.com/comic/{$.id}{$.comic_id}.json?channel=Android&version=2.7.038",
+            "coverUrl": "$.cover\n@js:header={\"Referer\":baseUrl}\nheaders={\"headers\":JSON.stringify(header)}\nresult=result+','+JSON.stringify(headers)",
+            "intro": "",
+            "kind": "$.types",
+            "lastChapter": "$.last_name",
+            "name": "$.title"
+        },
+        "ruleToc": {
+            "chapterList": "-<js>\nvar data = result.match(/\"data\":(\\[.*?\\])/)[1];\ndata\n</js>\n$.[*]",
+            "chapterName": "$.chapter_title",
+            "chapterUrl": "https://nnv3api.dmzj1.com/chapter/@get:{bid}/{{$.chapter_id}}.json?channel=Android&version=2.7.038"
+        },
+        "searchUrl": "https://nnv3api.dmzj1.com/search/show/0/{{key}}/{{page-1}}.json?channel=Android&version=2.7.038",
+        "weight": 0
+    },
+    {
         "bookSourceComment": "error:Connection reset\n",
         "bookSourceGroup": "🍺特优",
         "bookSourceName": "🎉 斋书苑",
@@ -7443,6 +7487,52 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "🍺特优",
+        "bookSourceName": "旧时光",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://www.oldtimescc.cc",
+        "bookUrlPattern": "",
+        "customOrder": -864,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "玄幻::/xuanhuan-{{page}}.html\n仙侠::/xianxia-{{page}}.html\n都市::/dushi-{{page}}.html\n军史::/junshi-{{page}}.html\n网游::/wangyou-{{page}}.html\n科幻::/kehuan-{{page}}.html\n灵异::/lingyi-{{page}}.html\n言情::/yanqing-{{page}}.html\n其他::/qita-{{page}}.html",
+        "lastUpdateTime": 0,
+        "loginUrl": "",
+        "ruleBookInfo": {
+            "author": "class.booktag@tag.a.0@text",
+            "coverUrl": "tag.img@src",
+            "intro": "class.bookintro@text",
+            "kind": "//*[@property=\"og:novel:category\"]/@content",
+            "lastChapter": "class.bookchapter@text##章节目录",
+            "name": "class.booktitle@tag.h1@text",
+            "wordCount": "class.booktag@tag.span.0@text"
+        },
+        "ruleContent": {
+            "content": "class.readcontent@textNodes##本站.*最新章节！",
+            "nextContentUrl": "text.下一页.0@href"
+        },
+        "ruleExplore": {
+            "coverUrl": "class.bookname@tag.a.0@href<js>\nvar id = result.match(/(\\d+)\\/?$/)[1];\nvar iid = parseInt(id/1000);\n'https://www.oldtimescc.cc/files/article/image/'+iid+'/'+id+'/'+id+'s.jpg';\n</js>"
+        },
+        "ruleSearch": {
+            "author": "class.author@text",
+            "bookList": "id.fengtui@class.bookbox",
+            "bookUrl": "class.bookname@tag.a.0@href",
+            "coverUrl": "class.bookname@tag.a.0@href<js>\nvar id = result.match(/(\\d+)\\/?$/)[1];\nvar iid = parseInt(id/1000);\n'https://www.oldtimescc.cc/files/article/image/'+iid+'/'+id+'/'+id+'s.jpg';\n</js>",
+            "intro": "class.update@text##简介：",
+            "lastChapter": "class.cat@tag.a.0@text",
+            "name": "class.bookname@tag.a.0@text"
+        },
+        "ruleToc": {
+            "chapterList": "id.list-chapterAll@tag.dd",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href"
+        },
+        "searchUrl": "https://www.oldtimescc.cc/modules/article/search.php?searchkey={{key}}&action=login&submit=,{\n  \"charset\": \"gbk\"\n}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🍺特优",
         "bookSourceName": "🎉 一品小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.1pxs.com",
@@ -8454,6 +8544,175 @@
     },
     {
         "bookSourceComment": "",
+        "bookSourceGroup": "🍺特优",
+        "bookSourceName": "拾古今小说",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.10gujin.com",
+        "bookUrlPattern": "",
+        "customOrder": 0,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "",
+        "header": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36",
+        "lastUpdateTime": 1603025389185,
+        "loginUrl": "",
+        "ruleBookInfo": {
+            "author": "//div[1]/div/div/div[2]/p[1]/a[1]/text()",
+            "coverUrl": "//div/img/@src",
+            "intro": "//*[@id=\"bookIntro d3d3LnhpYW9zaHVvbS5jb20=\"]",
+            "kind": "//div[1]/div/div/div[2]/p[1]/a[2]/text()",
+            "lastChapter": "//div[1]/div/div/div[2]/p[3]/a/text()",
+            "name": "//div[1]/div/div/div[2]/h1/text()"
+        },
+        "ruleContent": {
+            "content": "//*[@id=\"BookText\"]",
+            "nextContentUrl": "text.下一页@tag.a@href@js:\nr=(\"\"+result).match(/['\"]([^'\"]*)/)\nr&&r[1]||result",
+            "replaceRegex": "##天才一秒记住.*|[a-zA-Z]+://[^\\s]*|本章未完.*点击下一页继续阅读|加入书签.*方便阅读"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "//td[3]/text()",
+            "bookList": "//*[@class=\"table\"]//tr[position()>1]",
+            "bookUrl": "//td[1]/a/@href",
+            "lastChapter": "//td[3]/a/text()",
+            "name": "//td[1]/a/text()",
+            "wordCount": "//td[4]/text()"
+        },
+        "ruleToc": {
+            "chapterList": "//div[2]/div[3]/dl/dd//a",
+            "chapterName": "//text()",
+            "chapterUrl": "//@href@js:\nr=result.match(/['\"]([^'\"]*)/)\nr&&r[1]||result"
+        },
+        "searchUrl": "/search/?searchtype=all&action=login&searchkey={{key}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🍺特优",
+        "bookSourceName": "🍺147小说网",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://www.147xs.com",
+        "bookUrlPattern": "",
+        "customOrder": 0,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "玄幻::http://www.147xs.com/sort/1/\n修真::http://www.147xs.com/sort/2/\n都市::http://www.147xs.com/sort/3/\n历史::http://www.147xs.com/sort/4/\n网游::http://www.147xs.com/sort/6/\n科幻::http://www.147xs.com/sort/7/\n奇幻::http://www.147xs.com/sort/10/\n武侠::http://www.147xs.com/sort/11/\n军事::http://www.147xs.com/sort/8/\n竞技::http://www.147xs.com/sort/12/\n灵异::http://www.147xs.com/sort/9/\n职场::http://www.147xs.com/sort/5/",
+        "lastUpdateTime": 0,
+        "loginUrl": "",
+        "ruleBookInfo": {
+            "coverUrl": "id.fmimg@tag.a@img@src",
+            "intro": "id.intro@text",
+            "lastChapter": "id.info@tag.p.3@tag.a@text",
+            "name": "id.info@tag.h1@text"
+        },
+        "ruleContent": {
+            "content": "id.content@html"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "author": "tag.td.2@text||tag.li@text##.*./",
+            "bookList": "id.bookcase_list@tag.tr||class.novellist@tag.ul@tag.li",
+            "bookUrl": "tag.td.0@tag.a@href||tag.a@href",
+            "kind": "",
+            "lastChapter": "tag.td.1@tag.a@text",
+            "name": "tag.td.0@tag.a@text||tag.a@text##/.*"
+        },
+        "ruleToc": {
+            "chapterList": "id.list@tag.dl@tag.dd",
+            "chapterName": "tag.a@text",
+            "chapterUrl": "tag.a@href"
+        },
+        "searchUrl": "http://www.147xs.com/search.php?keyword={{key}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎨漫画",
+        "bookSourceName": "🎨奇妙漫画",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://www.qimiaomh.com",
+        "customOrder": 0,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "全部::/list-1------updatetime--{{page}}.html\n热血::/list-1-7-----updatetime--{{page}}.html\n恋爱::/list-1-8-----updatetime--{{page}}.html\n青春::/list-1-9-----updatetime--{{page}}.html\n彩虹::/list-1-10-----updatetime--{{page}}.html\n冒险::/list-1-11-----updatetime--{{page}}.html\n后宫::/list-1-12-----updatetime--{{page}}.html\n悬疑::/list-1-13-----updatetime--{{page}}.html\n玄幻::/list-1-14-----updatetime--{{page}}.html\n穿越::/list-1-16-----updatetime--{{page}}.html\n都市::/list-1-17-----updatetime--{{page}}.html\n腹黑::/list-1-18-----updatetime--{{page}}.html\n爆笑::/list-1-19-----updatetime--{{page}}.html\n少年::/list-1-20-----updatetime--{{page}}.html\n奇幻::/list-1-21-----updatetime--{{page}}.html\n古风::/list-1-22-----updatetime--{{page}}.html\n妖恋::/list-1-23-----updatetime--{{page}}.html\n元气::/list-1-24-----updatetime--{{page}}.html\n治愈::/list-1-25-----updatetime--{{page}}.html\n励志::/list-1-26-----updatetime--{{page}}.html\n日常::/list-1-27-----updatetime--{{page}}.html\n百合::/list-1-28-----updatetime--{{page}}.html",
+        "lastUpdateTime": 1612061395957,
+        "ruleBookInfo": {
+            "author": "class.author@ownText",
+            "coverUrl": "class.ctdbLeft@img@src",
+            "intro": "id.worksDesc@text",
+            "kind": "class.labelBox@a@text"
+        },
+        "ruleContent": {
+            "content": "class.loadimg@html",
+            "imageStyle": "FULL",
+            "replaceRegex": "##src=\".*?\" data-"
+        },
+        "ruleExplore": {},
+        "ruleSearch": {
+            "bookList": "class.classification",
+            "bookUrl": "tag.a.0@href",
+            "coverUrl": "img@data-src||img@src",
+            "lastChapter": "class.ellipsis@text",
+            "name": "h2@text"
+        },
+        "ruleToc": {
+            "chapterList": "-class.comic-content-list@class.tit@a",
+            "chapterName": "text",
+            "chapterUrl": "href##$##,{\"webView\":true}"
+        },
+        "searchUrl": "https://www.qimiaomh.com/action/Search?keyword={{key}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎨漫画",
+        "bookSourceName": "🎨奇漫屋",
+        "bookSourceType": 0,
+        "bookSourceUrl": "http://qiman6.com",
+        "customOrder": 0,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "冒险热血::{{page-1==0?'/sort/1-1.html':'/ajaxf/sort/?page_num=1&type=1'}}\n武侠格斗::{{page-1==0?'/sort/2-1.html':'/ajaxf/sort/?page_num=1&type=2'}}\n科幻魔幻::{{page-1==0?'/sort/3-1.html':'/ajaxf/sort/?page_num=1&type=3'}}\n侦探推理::{{page-1==0?'/sort/4-1.html':'/ajaxf/sort/?page_num=1&type=4'}}\n耽美爱情::{{page-1==0?'/sort/5-1.html':'/ajaxf/sort/?page_num=1&type=5'}}\n生活漫画::{{page-1==0?'/sort/6-1.html':'/ajaxf/sort/?page_num=1&type=6'}}\n推荐漫画::{{page-1==0?'/sort/11-1.html':'/ajaxf/sort/?page_num=1&type=11'}}\n完结::{{page-1==0?'/sort/12-1.html':'/ajaxf/sort/?page_num=1&type=12'}}\n连载中::{{page-1==0?'/sort/13-1.html':'/ajaxf/sort/?page_num=1&type=13'}}",
+        "lastUpdateTime": 1612061389468,
+        "ruleBookInfo": {
+            "intro": "class.comic-intro@text",
+            "tocUrl": "http://qiman6.com/bookchapter/,{\n\"method\": \"POST\",\n\"body\": \"id={{java.put('id',baseUrl.match(/(\\d+)\\/$/)[1]);}}&id2=1\"\n}"
+        },
+        "ruleContent": {
+            "content": "class.lazy@html",
+            "imageStyle": "FULL",
+            "replaceRegex": "##data-original=\"(.*?)\" src=\".*?\"##src=\"$1\"",
+            "webJs": ""
+        },
+        "ruleExplore": {
+            "author": "class.comic-author@text||$.author",
+            "bookList": "class.rank-item||$.[*]",
+            "bookUrl": "tag.a.0@href||$.id",
+            "coverUrl": "class.cover@data-src||$.imgurl",
+            "intro": "$.intro",
+            "lastChapter": "class.comic-tip@text||$.remarks",
+            "name": "class.comic-name@text||$.name"
+        },
+        "ruleSearch": {
+            "author": "class.comic-author@text",
+            "bookList": "class.comic-list-item",
+            "bookUrl": "tag.a.0@href",
+            "coverUrl": "img@src",
+            "kind": "class.comic-tags@text",
+            "lastChapter": "class.comic-update-at@text",
+            "name": "class.comic-name@text"
+        },
+        "ruleToc": {
+            "chapterList": "-$.[*]",
+            "chapterName": "$.name",
+            "chapterUrl": "http://qiman6.com/@get:{id}/{{$.id}}.html,{\n\"webView\":true\n}",
+            "isVip": ""
+        },
+        "searchUrl": "http://qiman6.com/spotlight/?keyword={{key}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
         "bookSourceGroup": "💯精选",
         "bookSourceName": "米趣小说",
         "bookSourceType": 0,
@@ -8724,6 +8983,62 @@
             "chapterUrl": "$1"
         },
         "searchUrl": "/search.php?keyword={{key}}&page={{page}}",
+        "weight": 0
+    },
+    {
+        "bookSourceComment": "",
+        "bookSourceGroup": "🎨漫画",
+        "bookSourceName": "🎨动漫之家",
+        "bookSourceType": 0,
+        "bookSourceUrl": "https://nnv3api.dmzj1.com",
+        "bookUrlPattern": "",
+        "customOrder": 7,
+        "enabled": true,
+        "enabledExplore": true,
+        "exploreUrl": "最新::/novel/recentUpdate/{{page-1}}.json\n人气::/novel/rank/0/0/{{page-1}}.json\n订阅::/novel/rank/1/0/{{page-1}}.json\n全部::/novel/0/0/0/{{page-1}}.json\n恐怖::/novel/2/0/1/{{page-1}}.json\n科幻::/novel/4/0/1/{{page-1}}.json\n侦探::/novel/6/0/1/{{page-1}}.json\n爱情::/novel/8/0/1/{{page-1}}.json\n校园::/novel/12/0/1/{{page-1}}.json\n神鬼::/novel/14/0/1/{{page-1}}.json\n魔法::/novel/16/0/1/{{page-1}}.json\n冒险::/novel/20/0/1/{{page-1}}.json\n其他::/novel/25/0/1/{{page-1}}.json\n搞笑::/novel/40/0/1/{{page-1}}.json\n格斗::/novel/47/0/1/{{page-1}}.json\n机战::/novel/1264/0/1/{{page-1}}.json\n仙侠::/novel/1265/0/1/{{page-1}}.json\n都市::/novel/1266/0/1/{{page-1}}.json\n历史::/novel/1267/0/1/{{page-1}}.json\n战争::/novel/1268/0/1/{{page-1}}.json\n治愈::/novel/1269/0/1/{{page-1}}.json\n励志::/novel/1270/0/1/{{page-1}}.json\n后宫::/novel/1271/0/1/{{page-1}}.json\n百合::/novel/1272/0/1/{{page-1}}.json\n纯爱::/novel/1273/0/1/{{page-1}}.json\n异界::/novel/1274/0/1/{{page-1}}.json\n异能::/novel/1275/0/1/{{page-1}}.json\n穿越::/novel/1276/0/1/{{page-1}}.json\n奇幻::/novel/1321/0/1/{{page-1}}.json",
+        "lastUpdateTime": 1612061402274,
+        "loginUrl": "",
+        "ruleBookInfo": {
+            "author": "$.authors@js:java.put('author',result)",
+            "canReName": "true",
+            "coverUrl": "$.cover",
+            "intro": "$.introduction\n<js>result=\"  \"+result;</js>",
+            "kind": "$.types",
+            "lastChapter": "$.last_update_chapter_name",
+            "name": "$.name@js:java.put('sm',result)",
+            "tocUrl": "$.id@js:\"https://nnv3api.dmzj1.com/novel/chapter/\"+result+\".json\""
+        },
+        "ruleContent": {
+            "content": "@js:result.replace(/&&[a-z]{4,};/ig,\"\")\nif((/\\.google\\.cn/).test(baseUrl)){\ndecodeURIComponent(baseUrl.replace(/^.+[&?]text=/, ''))}",
+            "imageStyle": "FULL",
+            "replaceRegex": "##^[^\\n]*\\n"
+        },
+        "ruleExplore": {
+            "author": "$.authors",
+            "bookList": "$.[*]",
+            "bookUrl": "/novel/{$.id}.json",
+            "coverUrl": "$.cover",
+            "intro": "$.last_update_time\n<js>\ndate= new Date(parseInt(result)*1000).toLocaleString();\n</js>##G.*",
+            "kind": "$.types",
+            "lastChapter": "{$.last_update_volume_name} \n{$.last_update_chapter_name}",
+            "name": "$.name"
+        },
+        "ruleSearch": {
+            "author": "$.authors",
+            "bookList": "$.[*]\n<js>\nvar opts = {\n  pattern: /\\/show\\/1\\/([^\\/]+)\\//,\n  name: '$.title',\n  author: '$.authors'\n};\n\n//删除糢糊匹配的搜索结果，然后按书名长度排序。依赖于baseUrl、result变量。\n//return Array\n//opts Object: 参数，包含以下key：\n//target List<Object>(result): 要过滤列表。\n//pattern RegExp: 匹配searchKey的正则表达式。\n//name String: 书名规则。\n//author String: 作者规则。\n//charset String('UTF-8'): 编码方式。\n//sorting Boolean(true): 是否重新排序。\n\nfunction searchFilter(opts){\n  result = opts.target === undefined ? result : opts.target;\n  opts.charset = opts.charset === undefined ? 'UTF-8' : opts.charset;\n  opts.sorting = opts.sorting === undefined ? true : !!opts.sorting;\n  function getText(ele, rule){\n    java.setContent(ele);\n    return String(java.getString(rule));\n  }\n  try {\n    var kw = (baseUrl.match(opts.pattern) || ['',''])[1];\n    kw = Packages.java.net.URLDecoder.decode(kw, opts.charset);\n    result = result.toArray().filter(e => getText(e, opts.name).includes(kw) || getText(e, opts.author).includes(kw));\n    return opts.sorting ? result.sort((a, b) => getText(a, opts.name).length - getText(b, opts.name).length) : result;\n  } catch(e) {\n    return result;\n  }\n}\n\nsearchFilter(opts);\n</js>",
+            "bookUrl": "$.id@js:\"https://nnv3api.dmzj1.com:443/novel/\"+result+\".json\"",
+            "coverUrl": "$.cover",
+            "intro": "",
+            "kind": "$.types",
+            "lastChapter": "$.last_name||$.last_update_volume_name",
+            "name": "$.title||$.name"
+        },
+        "ruleToc": {
+            "chapterList": "+<js>\n//二级目录，Json\nvar jdoc = JSON.parse(result);\nvar chUrl = 'https://nnv3api.dmzj1.com/novel/download/@get:{ID}_';\nvar volUrl = 'https://translate.google.cn/#view=home&op=translate&sl=zh-CN&tl=en&text=';\nvar list = [];\n//显示卷名\nvar opts = {\n  showVolName: false\n};\n\nsm=java.get('sm');\nauthor=java.get('author');\n\nfunction format(title){\n  return title.trim().replace(/^(\\d+)(?![\\s\\d卷部章节回.])/, '$1 ').replace(/\\s+/g, \"\\x20\\x20\");\n}\n\njdoc.forEach((vol,idx) => {\n  var chs = vol.chapters.map(ch => ({\n    text: (opts.showVolName ? '🍈[' + format(vol.volume_name) + ']🍈' : (ch.IsVip === '1' ? '💰' : '').padStart(3, \"\\u2000\")) + format(ch.chapter_name),\n    href: chUrl+vol.volume_id+'_'+ch.chapter_id+'.txt',\n    name: format(ch.chapter_name)\n  }));\n\n  var volInfo =author+\"：\\n\"+sm+'\\\\'+ format(vol.volume_name)+ '\\n目录(' + chs.length + \")：\\n\";\n  volInfo += chs.slice(0,30).map(v => v.name).join(\"\\n\");\n  volInfo += chs.length > 30 ? \"\\n……\" : '';\n\n  list.push({\n    text: '♦[' + format(vol.volume_name) + ']♦',\n    href: volUrl + encodeURIComponent(volInfo)\n});\n  list = list.concat(chs);\n});\n\nresult = list;\n</js>",
+            "chapterName": "text",
+            "chapterUrl": "href"
+        },
+        "searchUrl": "/search/show/1/{{key}}/{{page-1}}.json",
         "weight": 0
     },
     {
@@ -10277,115 +10592,6 @@
             "chapterUrl": "href"
         },
         "searchUrl": "https://novel.tingroom.com/wap/index.php?moduleid=1025&type=2&kw={{key}}",
-        "weight": 0
-    },
-    {
-        "bookSourceComment": "",
-        "bookSourceGroup": "🍺特优",
-        "bookSourceName": "拾古今小说",
-        "bookSourceType": 0,
-        "bookSourceUrl": "http://www.10gujin.com",
-        "bookUrlPattern": "",
-        "customOrder": 0,
-        "enabled": true,
-        "enabledExplore": true,
-        "exploreUrl": "",
-        "header": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36",
-        "lastUpdateTime": 1603025389185,
-        "loginUrl": "",
-        "ruleBookInfo": {
-            "author": "//div[1]/div/div/div[2]/p[1]/a[1]/text()",
-            "coverUrl": "//div/img/@src",
-            "intro": "//*[@id=\"bookIntro d3d3LnhpYW9zaHVvbS5jb20=\"]",
-            "kind": "//div[1]/div/div/div[2]/p[1]/a[2]/text()",
-            "lastChapter": "//div[1]/div/div/div[2]/p[3]/a/text()",
-            "name": "//div[1]/div/div/div[2]/h1/text()"
-        },
-        "ruleContent": {
-            "content": "//*[@id=\"BookText\"]",
-            "nextContentUrl": "text.下一页@tag.a@href@js:\nr=(\"\"+result).match(/['\"]([^'\"]*)/)\nr&&r[1]||result",
-            "replaceRegex": "##天才一秒记住.*|[a-zA-Z]+://[^\\s]*|本章未完.*点击下一页继续阅读|加入书签.*方便阅读"
-        },
-        "ruleExplore": {},
-        "ruleSearch": {
-            "author": "//td[3]/text()",
-            "bookList": "//*[@class=\"table\"]//tr[position()>1]",
-            "bookUrl": "//td[1]/a/@href",
-            "lastChapter": "//td[3]/a/text()",
-            "name": "//td[1]/a/text()",
-            "wordCount": "//td[4]/text()"
-        },
-        "ruleToc": {
-            "chapterList": "//div[2]/div[3]/dl/dd//a",
-            "chapterName": "//text()",
-            "chapterUrl": "//@href@js:\nr=result.match(/['\"]([^'\"]*)/)\nr&&r[1]||result"
-        },
-        "searchUrl": "/search/?searchtype=all&action=login&searchkey={{key}}",
-        "weight": 0
-    },
-    {
-        "bookSourceGroup": "🍺特优",
-        "bookSourceName": "旧时光",
-        "bookSourceType": 0,
-        "bookSourceUrl": "https://www.oldtimescc.cc",
-        "bookUrlPattern": "",
-        "customOrder": -864,
-        "enabled": true,
-        "enabledExplore": true,
-        "exploreUrl": "玄幻::\/xuanhuan-{{page}}.html\n仙侠::\/xianxia-{{page}}.html\n都市::\/dushi-{{page}}.html\n军史::\/junshi-{{page}}.html\n网游::\/wangyou-{{page}}.html\n科幻::\/kehuan-{{page}}.html\n灵异::\/lingyi-{{page}}.html\n言情::\/yanqing-{{page}}.html\n其他::\/qita-{{page}}.html",
-        "lastUpdateTime": 0,
-        "loginUrl": "",
-        "ruleBookInfo": {
-            "author": "class.booktag@tag.a.0@text",
-            "coverUrl": "tag.img@src",
-            "intro": "class.bookintro@text",
-            "kind": "\/\/*[@property=\"og:novel:category\"]\/@content",
-            "lastChapter": "class.bookchapter@text##章节目录",
-            "name": "class.booktitle@tag.h1@text",
-            "wordCount": "class.booktag@tag.span.0@text"
-        },
-        "ruleContent": {
-            "content": "class.readcontent@textNodes##本站.*最新章节！",
-            "nextContentUrl": "text.下一页.0@href"
-        },
-        "ruleExplore": {
-            "coverUrl": "class.bookname@tag.a.0@href<js>\nvar id = result.match(\/(\\d+)\\\/?$\/)[1];\nvar iid = parseInt(id\/1000);\n'https://www.oldtimescc.cc\/files\/article\/image\/'+iid+'\/'+id+'\/'+id+'s.jpg';\n<\/js>"
-        },
-        "ruleSearch": {
-            "author": "class.author@text",
-            "bookList": "id.fengtui@class.bookbox",
-            "bookUrl": "class.bookname@tag.a.0@href",
-            "coverUrl": "class.bookname@tag.a.0@href<js>\nvar id = result.match(\/(\\d+)\\\/?$\/)[1];\nvar iid = parseInt(id\/1000);\n'https://www.oldtimescc.cc\/files\/article\/image\/'+iid+'\/'+id+'\/'+id+'s.jpg';\n<\/js>",
-            "intro": "class.update@text##简介：",
-            "lastChapter": "class.cat@tag.a.0@text",
-            "name": "class.bookname@tag.a.0@text"
-        },
-        "ruleToc": {
-            "chapterList": "id.list-chapterAll@tag.dd",
-            "chapterName": "tag.a@text",
-            "chapterUrl": "tag.a@href"
-        },
-        "searchUrl": "https://www.oldtimescc.cc\/modules\/article\/search.php?searchkey={{key}}&action=login&submit=,{\n  \"charset\": \"gbk\"\n}",
-        "weight": 0
-    },
-    {
-        "bookSourceGroup": "🍺特优",
-        "bookSourceName": "🍺147小说网",
-        "bookSourceType": 0,
-        "bookSourceUrl": "http://www.147xs.com",
-        "bookUrlPattern": "",
-        "customOrder": 0,
-        "enabled": true,
-        "enabledExplore": true,
-        "exploreUrl": "玄幻::http://www.147xs.com\/sort\/1\/\n修真::http://www.147xs.com\/sort\/2\/\n都市::http://www.147xs.com\/sort\/3\/\n历史::http://www.147xs.com\/sort\/4\/\n网游::http://www.147xs.com\/sort\/6\/\n科幻::http://www.147xs.com\/sort\/7\/\n奇幻::http://www.147xs.com\/sort\/10\/\n武侠::http://www.147xs.com\/sort\/11\/\n军事::http://www.147xs.com\/sort\/8\/\n竞技::http://www.147xs.com\/sort\/12\/\n灵异::http://www.147xs.com\/sort\/9\/\n职场::http://www.147xs.com\/sort\/5\/",
-        "lastUpdateTime": 0,
-        "loginUrl": "",
-        "ruleBookInfo": "{\n  \"coverUrl\": \"id.fmimg@tag.a@img@src\",\n  \"intro\": \"id.intro@text\",\n  \"lastChapter\": \"id.info@tag.p.3@tag.a@text\",\n  \"name\": \"id.info@tag.h1@text\"\n}",
-        "ruleContent": "{\n  \"content\": \"id.content@html\"\n}",
-        "ruleExplore": "{}",
-        "ruleSearch": "{\n  \"author\": \"tag.td.2@text||tag.li@text##.*.\/\",\n  \"bookList\": \"id.bookcase_list@tag.tr||class.novellist@tag.ul@tag.li\",\n  \"bookUrl\": \"tag.td.0@tag.a@href||tag.a@href\",\n  \"kind\": \"\",\n  \"lastChapter\": \"tag.td.1@tag.a@text\",\n  \"name\": \"tag.td.0@tag.a@text||tag.a@text##\/.*\"\n}",
-        "ruleToc": "{\n  \"chapterList\": \"id.list@tag.dl@tag.dd\",\n  \"chapterName\": \"tag.a@text\",\n  \"chapterUrl\": \"tag.a@href\"\n}",
-        "searchUrl": "http://www.147xs.com\/search.php?keyword={{key}}",
         "weight": 0
     }
 ]
